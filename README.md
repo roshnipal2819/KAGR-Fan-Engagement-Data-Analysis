@@ -32,9 +32,5 @@ Run with Docker
 docker build -t fan-data-analysis .
 docker run -p 8501:8501 fan-data-analysis
 
-Command to Run the App- streamlit run streamlit_app/app.py
-
-Usage
-Data Analysis: Explore the notebooks in notebooks/ for detailed analysis steps.
-Streamlit Application: Launch the Streamlit app to visualize data and interact with the chatbot.
-LLM Chatbot: Use the chatbot to query insights on fan engagement, demographics, and venue recommendations.
+Command to Run the App
+streamlit run streamlit_app/app.py
