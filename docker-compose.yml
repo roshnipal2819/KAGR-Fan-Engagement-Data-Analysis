@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  streamlit_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: basketball_tournament_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONPATH=/app
+      - STREAMLIT_PORT=8501
+      - STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
+    networks:
+      - app_network
+
+networks:
+  app_network:
+    driver: bridge

@@ -1,0 +1,1001 @@
+﻿Fan_ID,Fan_Type,Age,Gender,Income_Level,STM_Holder,Attendance_Trend,Distance_to_Arena_Miles,Lifetime_Concessions_Spend,Lifetime_Retail_Spend,Lifetime_Games_Attended,Lifetime_Ticket_Units,Lifetime_Ticket_Spend,Total_Engagement_Score
+1,Alumni,64,Non-binary,Medium,0,Decreasing,1.00,263.25,567.00,27,27,2666.25,66.24
+2,General Fan,29,Female,High,0,Stable,25.90,34.85,46.00,2,2,230.00,60.86
+3,General Fan,33,Non-binary,High,1,Stable,13.50,2583.00,1428.00,84,84,4032.00,51.83
+4,Alumni,41,Female,High,0,Stable,6.40,352.60,216.00,8,16,1020.00,42.10
+5,Student,22,Male,Low,0,Increasing,1.94,200.00,0.00,8,24,630.00,21.06
+6,Student,21,Non-binary,Low,0,Stable,0.36,57.00,57.00,3,3,52.50,39.34
+7,Student,21,Male,Low,0,Decreasing,1.64,5.00,12.00,1,3,86.25,21.34
+8,General Fan,38,Female,High,0,Decreasing,30.90,191.68,308.00,11,22,1760.00,45.07
+9,General Fan,34,Male,High,0,Increasing,24.60,602.70,576.00,12,36,1350.00,19.54
+10,General Fan,40,Female,Medium,0,Stable,9.20,394.88,198.00,9,27,2430.00,21.85
+11,Student,20,Female,Medium,0,Stable,1.84,974.03,481.00,37,148,4255.00,14.01
+12,General Fan,33,Female,High,0,Increasing,23.30,590.40,228.00,12,84,9870.00,44.46
+13,General Fan,23,Female,High,1,Decreasing,15.90,3527.03,2418.00,93,279,9486.00,69.60
+14,Student,21,Male,Low,0,Stable,1.17,45.00,66.00,3,3,60.00,31.59
+15,Student,20,Male,Low,0,Increasing,2.23,0.00,30.00,3,9,180.00,58.94
+16,Student,21,Male,Low,0,Stable,0.64,288.00,189.00,9,36,855.00,28.44
+17,Alumni,42,Male,High,0,Decreasing,19.10,287.00,203.00,7,21,2572.50,64.80
+18,Alumni,29,Female,Medium,0,Decreasing,12.10,343.20,352.00,11,33,3836.25,45.96
+19,Alumni,32,Male,High,1,Increasing,1.00,3437.85,2150.00,86,172,6622.00,30.67
+20,Student,21,Non-binary,Low,0,Increasing,1.43,147.00,161.00,7,7,175.00,25.68
+21,General Fan,58,Female,High,1,Stable,21.20,3960.60,3444.00,84,168,7056.00,89.56
+22,Student,21,Female,Medium,0,Increasing,0.53,0.00,138.00,6,12,225.00,87.08
+23,Student,19,Male,Low,0,Stable,1.67,546.00,189.00,21,63,945.00,43.37
+24,Alumni,64,Female,High,1,Increasing,25.40,2186.33,1580.00,79,79,3515.50,36.86
+25,Alumni,49,Non-binary,Medium,0,Increasing,15.40,386.10,324.00,12,60,5550.00,38.58
+26,General Fan,27,Female,Medium,0,Increasing,21.00,183.30,0.00,4,28,3290.00,28.20
+27,Student,18,Female,Medium,0,Decreasing,0.66,163.80,28.00,7,28,1050.00,14.06
+28,Alumni,24,Female,Medium,0,Stable,13.80,351.00,360.00,9,18,1102.50,38.48
+29,Alumni,34,Male,Medium,0,Increasing,1.30,269.10,516.00,12,12,630.00,12.25
+30,Student,20,Female,Low,0,Increasing,1.39,301.00,860.00,43,43,591.25,42.77
+31,General Fan,43,Male,Medium,1,Increasing,29.10,1719.90,4200.00,84,252,8190.00,34.99
+32,Student,20,Male,Low,0,Decreasing,1.20,153.00,45.00,9,18,450.00,11.94
+33,Student,21,Male,Low,0,Decreasing,2.03,0.00,60.00,6,6,90.00,35.78
+34,General Fan,24,Male,High,0,Stable,13.60,180.40,517.00,11,11,481.25,45.45
+35,General Fan,31,Male,Medium,0,Decreasing,8.70,113.10,172.00,4,20,625.00,22.11
+36,General Fan,32,Male,High,1,Decreasing,16.40,3013.50,1260.00,70,140,4340.00,43.84
+37,Alumni,24,Non-binary,Medium,0,Increasing,27.10,195.00,80.00,5,35,3018.75,63.11
+38,Student,21,Female,Low,0,Stable,1.24,72.00,78.00,6,24,750.00,61.34
+39,General Fan,25,Non-binary,High,1,Increasing,30.80,2021.30,2320.00,58,174,5829.00,30.16
+40,Alumni,40,Male,High,1,Increasing,10.90,1463.70,2584.00,68,136,5372.00,81.92
+41,Student,22,Male,Medium,0,Decreasing,2.08,224.25,0.00,10,40,1100.00,32.33
+42,Alumni,35,Female,Medium,0,Decreasing,21.20,175.50,0.00,10,10,1037.50,48.68
+43,Student,20,Male,Low,0,Decreasing,0.64,182.00,119.00,7,14,472.50,16.04
+44,General Fan,47,Male,Medium,0,Decreasing,15.60,439.73,451.00,11,66,4785.00,32.94
+45,Student,18,Female,Medium,0,Stable,0.85,737.10,42.00,42,42,1522.50,55.81
+46,General Fan,52,Male,High,0,Increasing,17.90,533.00,720.00,20,40,3050.00,48.06
+47,Alumni,35,Female,High,0,Stable,8.70,307.50,276.00,12,36,3150.00,63.60
+48,Alumni,59,Female,Medium,0,Decreasing,1.00,859.95,672.00,21,21,2493.75,49.76
+49,Alumni,56,Male,High,0,Decreasing,2.80,246.00,448.00,16,80,6300.00,49.66
+50,Student,22,Male,Low,0,Decreasing,1.04,532.00,570.00,38,114,3420.00,15.17
+51,General Fan,31,Female,Medium,1,Increasing,7.10,1684.80,3200.00,64,64,3104.00,50.93
+52,General Fan,48,Female,Medium,1,Stable,7.20,2827.50,2668.00,58,174,6438.00,39.71
+53,General Fan,41,Male,Medium,0,Decreasing,33.00,83.85,0.00,2,12,1275.00,10.91
+54,General Fan,52,Non-binary,High,0,Increasing,23.60,27.68,22.00,1,2,25.00,47.43
+55,Alumni,61,Male,Medium,0,Decreasing,12.50,634.73,672.00,21,21,551.25,65.02
+56,General Fan,62,Female,Medium,0,Stable,21.70,414.38,391.00,17,119,10710.00,62.79
+57,Student,19,Non-binary,Low,0,Decreasing,0.58,0.00,48.00,2,2,40.00,23.38
+58,Student,19,Male,Low,0,Stable,1.78,0.00,0.00,5,5,143.75,33.65
+59,Student,20,Male,Medium,0,Increasing,1.79,73.13,0.00,5,10,312.50,69.92
+60,Alumni,60,Male,Medium,0,Increasing,10.80,140.40,0.00,12,36,1215.00,25.59
+61,Alumni,57,Male,High,0,Increasing,8.10,246.00,160.00,8,24,1980.00,51.65
+62,Student,19,Male,Low,0,Decreasing,0.38,0.00,49.00,7,14,332.50,54.11
+63,General Fan,40,Female,Medium,0,Increasing,21.10,148.20,168.00,4,8,410.00,27.05
+64,Alumni,61,Male,Medium,0,Increasing,1.00,583.05,575.00,23,184,14030.00,37.51
+65,Student,22,Female,Medium,0,Stable,2.14,0.00,72.00,3,12,360.00,47.19
+66,Alumni,32,Non-binary,Medium,0,Stable,7.20,210.60,0.00,9,27,1755.00,48.16
+67,Student,20,Female,Low,0,Stable,1.27,182.00,70.00,7,7,183.75,52.06
+68,General Fan,46,Female,Medium,1,Increasing,23.60,2825.55,2457.00,63,126,4536.00,70.73
+69,Student,22,Male,Low,0,Increasing,1.59,132.00,0.00,6,24,510.00,58.01
+70,General Fan,42,Female,High,0,Increasing,1.10,53.30,188.00,4,12,630.00,36.50
+71,General Fan,30,Female,Medium,0,Stable,11.20,399.75,410.00,10,70,7700.00,60.34
+72,Student,22,Male,Medium,0,Stable,1.01,685.43,111.00,37,148,2220.00,45.10
+73,Student,21,Male,Medium,0,Decreasing,0.68,0.00,175.00,7,7,122.50,32.66
+74,General Fan,33,Female,Medium,0,Increasing,8.60,300.30,165.00,11,22,2337.50,63.53
+75,General Fan,62,Male,High,1,Decreasing,18.30,2126.88,2739.00,83,166,5229.00,32.17
+76,General Fan,59,Male,High,1,Increasing,11.20,947.10,3773.00,77,231,10279.50,45.83
+77,General Fan,61,Male,High,1,Increasing,19.60,2407.73,3915.00,87,87,4002.00,36.69
+78,Student,19,Male,Low,0,Decreasing,1.55,209.00,11.00,11,44,1595.00,24.78
+79,Alumni,52,Female,Medium,0,Stable,9.20,778.05,609.00,21,105,12600.00,57.98
+80,Student,21,Female,Low,0,Increasing,1.94,0.00,8.00,2,2,45.00,53.41
+81,General Fan,51,Female,Medium,1,Increasing,14.70,3057.60,2432.00,64,192,9408.00,35.19
+82,General Fan,47,Male,Medium,0,Stable,16.20,228.15,702.00,18,144,11880.00,10.74
+83,Alumni,30,Male,High,0,Increasing,19.40,98.40,164.00,4,12,750.00,41.82
+84,Student,21,Female,Low,0,Increasing,0.79,0.00,150.00,6,18,495.00,64.80
+85,Alumni,35,Male,Medium,1,Increasing,21.50,791.70,2842.00,58,58,2291.00,14.55
+86,Alumni,49,Male,Medium,0,Increasing,1.00,0.00,288.00,9,27,1923.75,86.61
+87,General Fan,49,Female,Medium,0,Increasing,1.60,824.85,702.00,18,18,2227.50,16.29
+88,General Fan,52,Male,Medium,0,Stable,36.40,491.40,720.00,18,54,3375.00,51.71
+89,General Fan,56,Female,High,0,Increasing,9.90,542.23,483.00,23,46,2760.00,37.36
+90,Alumni,63,Male,Medium,0,Decreasing,22.30,986.70,792.00,22,110,7562.50,41.05
+91,Student,20,Male,Low,0,Decreasing,1.95,32.00,0.00,1,3,90.00,53.55
+92,General Fan,46,Male,Medium,1,Decreasing,1.00,2527.20,1377.00,81,243,11664.00,62.44
+93,General Fan,61,Non-binary,High,0,Stable,26.30,793.35,756.00,18,54,2835.00,50.79
+94,Alumni,33,Female,Medium,0,Stable,21.50,0.00,96.00,3,9,877.50,34.48
+95,General Fan,61,Non-binary,Medium,0,Increasing,31.40,982.80,630.00,21,21,2546.25,50.11
+96,Alumni,64,Female,High,0,Stable,3.20,774.90,630.00,18,18,900.00,61.05
+97,Alumni,27,Male,High,0,Decreasing,29.50,304.43,333.00,9,18,1350.00,25.77
+98,Alumni,47,Female,High,0,Stable,7.60,158.88,210.00,5,30,3112.50,33.32
+99,Student,20,Female,Low,0,Decreasing,1.37,48.00,28.00,2,2,52.50,55.48
+100,Student,20,Female,Medium,0,Stable,1.26,358.80,272.00,16,64,1600.00,61.07
+101,Student,22,Male,Low,0,Stable,1.94,243.00,108.00,27,108,3780.00,27.44
+102,General Fan,22,Female,Medium,0,Increasing,15.50,93.60,138.00,6,30,1762.50,77.51
+103,Alumni,28,Male,Medium,0,Decreasing,1.00,225.23,242.00,11,22,2750.00,33.59
+104,Alumni,47,Male,Medium,0,Stable,1.00,438.75,255.00,15,60,6825.00,12.62
+105,General Fan,20,Female,High,1,Stable,17.10,1652.30,1984.00,62,186,7347.00,23.77
+106,Student,20,Female,Low,0,Increasing,1.34,0.00,147.00,7,14,210.00,57.38
+107,Alumni,31,Male,High,0,Stable,19.00,383.35,198.00,11,11,880.00,33.62
+108,General Fan,47,Male,High,0,Increasing,12.50,630.38,315.00,15,45,1518.75,20.21
+109,Student,22,Female,Low,0,Increasing,1.81,442.00,0.00,17,51,1211.25,72.27
+110,Student,22,Female,Low,0,Decreasing,1.48,182.00,112.00,7,21,708.75,46.58
+111,Student,18,Female,Medium,0,Increasing,1.75,169.65,30.00,6,6,180.00,82.52
+112,Student,20,Non-binary,Medium,0,Stable,1.59,906.75,31.00,31,62,2092.50,46.14
+113,General Fan,18,Female,Medium,1,Increasing,10.70,2808.00,2000.00,80,160,4800.00,56.58
+114,General Fan,63,Male,High,0,Stable,15.90,174.25,320.00,10,30,2437.50,32.48
+115,General Fan,32,Female,Medium,0,Increasing,2.80,210.60,282.00,6,42,2887.50,44.11
+116,General Fan,26,Male,Medium,1,Increasing,14.90,1508.33,4186.00,91,273,13377.00,65.19
+117,General Fan,32,Male,Medium,1,Increasing,10.20,2344.88,1170.00,65,130,5200.00,34.34
+118,Student,21,Female,Low,0,Increasing,1.81,25.00,0.00,5,20,325.00,40.67
+119,General Fan,21,Male,Medium,0,Increasing,34.80,121.88,0.00,5,10,500.00,49.11
+120,Alumni,29,Non-binary,Medium,0,Increasing,4.20,166.73,0.00,9,72,8010.00,55.71
+121,General Fan,54,Female,High,0,Decreasing,15.10,344.40,464.00,16,80,4400.00,66.27
+122,General Fan,54,Female,High,0,Increasing,7.00,470.48,527.00,17,17,786.25,36.08
+123,Alumni,60,Female,Medium,0,Decreasing,18.00,0.00,88.00,2,10,1150.00,54.73
+124,Student,22,Female,Low,0,Increasing,0.61,232.00,48.00,8,32,600.00,44.84
+125,Student,21,Female,Medium,0,Stable,1.01,791.70,196.00,28,56,1260.00,57.24
+126,Alumni,63,Female,Medium,0,Stable,35.40,493.35,418.00,11,22,2062.50,64.52
+127,General Fan,41,Male,High,0,Decreasing,6.60,98.40,128.00,4,4,330.00,54.28
+128,General Fan,28,Female,Medium,0,Increasing,27.20,351.00,348.00,12,36,3690.00,56.18
+129,Student,22,Male,Low,0,Increasing,0.86,63.00,161.00,7,7,96.25,44.18
+130,Alumni,51,Female,High,0,Stable,30.10,599.63,225.00,15,75,8625.00,42.03
+131,Alumni,42,Female,Medium,1,Increasing,16.90,686.40,1792.00,64,128,4928.00,60.05
+132,Student,20,Female,Medium,0,Increasing,2.07,1392.30,840.00,42,126,1575.00,12.91
+133,Student,22,Male,Low,0,Increasing,1.55,0.00,25.00,5,5,68.75,67.91
+134,Alumni,25,Male,Medium,1,Increasing,24.50,2866.50,1512.00,84,168,5712.00,65.34
+135,General Fan,37,Female,Medium,1,Increasing,17.20,1716.00,3040.00,80,240,7200.00,44.22
+136,Alumni,46,Male,Medium,0,Stable,20.00,225.23,374.00,11,11,1086.25,37.66
+137,Alumni,62,Male,Medium,0,Increasing,11.60,0.00,0.00,5,15,975.00,71.31
+138,General Fan,63,Male,High,1,Decreasing,6.20,4102.05,3393.00,87,261,8874.00,40.43
+139,Alumni,27,Non-binary,Medium,0,Increasing,26.60,131.63,195.00,5,40,1500.00,64.03
+140,General Fan,60,Female,High,0,Increasing,18.20,87.13,165.00,5,15,1331.25,24.79
+141,General Fan,51,Male,Medium,0,Stable,1.00,0.00,184.00,8,24,1350.00,30.32
+142,Student,19,Male,Low,0,Increasing,0.92,240.00,200.00,8,8,240.00,24.47
+143,Alumni,58,Male,High,0,Stable,19.90,467.40,288.00,12,12,615.00,38.09
+144,Alumni,25,Female,High,0,Decreasing,11.70,341.33,405.00,9,27,2970.00,20.63
+145,Student,18,Female,Medium,0,Increasing,1.30,0.00,0.00,3,9,292.50,26.81
+146,Student,21,Male,Low,0,Stable,1.79,0.00,0.00,9,36,1215.00,70.41
+147,General Fan,22,Male,High,0,Increasing,13.30,46.13,15.00,1,5,537.50,21.45
+148,Alumni,64,Male,Medium,0,Stable,22.70,491.40,588.00,14,42,1102.50,36.87
+149,Student,19,Female,Low,0,Increasing,0.40,693.00,825.00,33,132,2640.00,48.92
+150,Student,19,Female,Medium,0,Stable,1.21,61.43,28.00,7,21,787.50,40.70
+151,General Fan,52,Male,High,0,Increasing,16.80,603.73,950.00,19,57,3633.75,75.70
+152,Student,22,Male,Low,0,Decreasing,0.96,432.00,288.00,18,18,427.50,51.50
+153,Student,18,Male,Low,0,Stable,1.54,128.00,0.00,4,4,145.00,23.15
+154,Alumni,52,Non-binary,Medium,1,Stable,16.50,643.50,2340.00,60,180,6750.00,70.89
+155,General Fan,35,Male,High,0,Stable,15.90,194.75,220.00,5,10,1187.50,61.81
+156,Student,22,Female,Medium,0,Stable,0.66,0.00,76.00,4,12,165.00,55.01
+157,General Fan,41,Female,Medium,0,Stable,12.70,0.00,200.00,8,16,1540.00,39.73
+158,General Fan,20,Male,Medium,0,Increasing,24.70,177.45,175.00,7,56,5110.00,35.26
+159,Student,22,Male,Medium,0,Increasing,0.52,113.10,0.00,4,4,65.00,43.93
+160,General Fan,52,Male,Medium,0,Increasing,14.70,157.95,306.00,9,54,6480.00,49.17
+161,Alumni,55,Female,Medium,0,Increasing,5.60,360.75,290.00,10,30,2587.50,57.38
+162,General Fan,30,Female,High,0,Increasing,3.20,172.20,184.00,8,16,680.00,42.48
+163,General Fan,64,Female,High,0,Decreasing,14.20,246.00,672.00,24,48,5280.00,33.32
+164,Alumni,42,Female,Medium,0,Increasing,16.70,546.00,266.00,14,56,6580.00,40.84
+165,Student,22,Male,Medium,0,Decreasing,1.87,50.70,52.00,4,4,70.00,33.86
+166,General Fan,21,Non-binary,Medium,0,Increasing,10.40,184.28,423.00,9,18,1125.00,50.37
+167,Alumni,31,Female,High,0,Increasing,14.50,359.78,162.00,9,9,843.75,13.91
+168,Student,21,Male,Low,0,Decreasing,1.65,0.00,40.00,4,16,500.00,63.44
+169,Student,19,Non-binary,Low,0,Stable,0.31,120.00,0.00,8,16,300.00,38.22
+170,Alumni,28,Female,High,0,Stable,19.00,196.80,192.00,12,24,1200.00,28.70
+171,General Fan,58,Female,Medium,0,Decreasing,29.90,234.00,480.00,12,12,720.00,58.28
+172,Student,21,Female,Low,0,Increasing,1.36,0.00,90.00,9,36,495.00,42.83
+173,Alumni,45,Female,High,0,Decreasing,18.50,196.80,80.00,4,4,465.00,29.18
+174,Student,22,Female,Medium,0,Increasing,0.32,87.75,0.00,5,20,375.00,65.17
+175,General Fan,26,Male,Medium,0,Increasing,17.00,105.30,423.00,9,45,2475.00,15.38
+176,Student,19,Male,Low,0,Decreasing,0.79,62.00,30.00,2,6,157.50,39.86
+177,General Fan,42,Non-binary,Medium,0,Increasing,24.50,0.00,120.00,4,12,825.00,50.25
+178,Alumni,51,Male,Medium,1,Increasing,23.30,2593.50,3116.00,76,228,6954.00,76.18
+179,General Fan,29,Male,Medium,1,Stable,12.00,1889.55,765.00,51,153,5890.50,48.12
+180,Student,20,Male,Low,0,Stable,0.58,32.00,96.00,4,4,120.00,33.15
+181,Alumni,26,Male,Medium,0,Increasing,28.30,300.30,0.00,11,88,4400.00,36.56
+182,Student,22,Female,Low,0,Increasing,0.42,0.00,136.00,8,8,160.00,45.84
+183,General Fan,57,Non-binary,High,0,Increasing,11.80,27.68,23.00,1,3,568.75,17.39
+184,General Fan,42,Male,High,1,Increasing,20.40,1499.58,2926.00,77,154,6237.00,21.11
+185,Student,21,Male,Low,0,Stable,1.61,0.00,0.00,9,18,450.00,38.44
+186,General Fan,28,Male,Medium,1,Increasing,28.20,1315.28,1562.00,71,213,8839.50,36.41
+187,General Fan,51,Female,High,1,Stable,1.00,1652.30,1426.00,62,124,5270.00,63.60
+188,Alumni,41,Female,High,0,Increasing,11.00,293.15,247.00,13,91,6597.50,59.87
+189,Alumni,32,Male,Medium,0,Stable,31.00,342.23,387.00,9,18,1732.50,20.74
+190,Student,22,Female,Medium,0,Increasing,1.52,184.28,112.00,7,28,665.00,35.44
+191,Student,18,Female,Medium,0,Stable,1.19,191.10,616.00,28,84,1050.00,70.96
+192,General Fan,22,Female,High,0,Increasing,2.80,138.38,69.00,3,9,753.75,57.01
+193,General Fan,43,Non-binary,Medium,1,Decreasing,25.70,3004.95,2948.00,67,67,2177.50,70.21
+194,General Fan,35,Male,Medium,0,Increasing,25.10,280.80,288.00,12,84,3150.00,35.02
+195,Alumni,23,Female,Medium,0,Increasing,1.00,0.00,0.00,1,2,42.50,20.49
+196,Alumni,54,Female,Medium,1,Stable,12.00,1790.10,1428.00,68,136,6324.00,37.44
+197,General Fan,30,Female,High,0,Stable,13.90,150.68,81.00,3,21,1260.00,57.88
+198,General Fan,45,Female,High,0,Stable,1.00,351.58,301.00,7,56,1540.00,32.82
+199,General Fan,22,Female,High,0,Decreasing,12.30,66.63,130.00,5,10,725.00,65.27
+200,General Fan,30,Female,High,1,Stable,23.70,1008.60,1394.00,82,82,3198.00,59.41
+201,General Fan,34,Male,High,0,Increasing,11.10,79.95,63.00,3,21,1548.75,50.43
+202,Student,22,Female,Medium,0,Increasing,2.05,226.20,200.00,8,16,420.00,45.36
+203,Student,19,Non-binary,Low,0,Increasing,0.35,69.00,21.00,3,6,202.50,40.12
+204,General Fan,49,Non-binary,Medium,0,Decreasing,14.90,438.75,450.00,9,18,765.00,55.59
+205,General Fan,46,Male,High,0,Increasing,7.90,180.40,176.00,8,16,1940.00,49.00
+206,Student,20,Male,Low,0,Increasing,1.48,570.00,120.00,30,120,3150.00,22.24
+207,Student,21,Male,Low,0,Decreasing,1.40,391.00,374.00,17,34,1232.50,59.67
+208,General Fan,51,Female,High,0,Stable,15.10,660.10,448.00,14,70,3850.00,34.76
+209,Student,20,Female,Low,0,Increasing,1.10,112.00,24.00,8,8,180.00,27.65
+210,Student,18,Male,Low,0,Increasing,1.91,0.00,20.00,2,8,220.00,40.88
+211,Alumni,30,Female,High,0,Increasing,7.70,104.55,264.00,6,12,1155.00,36.96
+212,General Fan,62,Female,Medium,0,Increasing,22.30,166.73,306.00,9,9,697.50,29.82
+213,General Fan,50,Female,Medium,0,Increasing,16.60,185.25,155.00,5,5,300.00,35.89
+214,Student,19,Female,Medium,0,Decreasing,0.65,0.00,90.00,5,5,131.25,54.58
+215,General Fan,41,Female,High,0,Decreasing,15.40,86.10,168.00,6,18,1732.50,43.61
+216,Student,22,Female,Low,0,Decreasing,1.74,133.00,161.00,7,28,875.00,38.99
+217,Alumni,33,Male,Medium,1,Increasing,26.80,3276.00,1890.00,70,140,6650.00,29.10
+218,General Fan,57,Female,High,0,Stable,35.70,270.60,276.00,12,24,1950.00,58.80
+219,General Fan,45,Female,Medium,1,Increasing,27.80,1614.60,1173.00,69,138,6141.00,30.60
+220,General Fan,50,Female,Medium,1,Decreasing,1.00,2281.50,1950.00,78,78,2418.00,31.45
+221,General Fan,58,Female,High,0,Stable,19.50,304.43,264.00,11,44,4895.00,59.75
+222,Alumni,30,Female,High,0,Increasing,10.30,369.00,516.00,12,24,1230.00,27.83
+223,Student,20,Male,Medium,0,Increasing,0.92,89.70,68.00,4,12,420.00,45.30
+224,Alumni,62,Female,High,0,Stable,16.20,258.30,492.00,12,12,450.00,6.53
+225,Student,21,Male,Low,0,Increasing,2.14,112.00,14.00,7,7,236.25,10.86
+226,Student,21,Male,Low,0,Decreasing,1.72,700.00,168.00,28,28,945.00,35.64
+227,General Fan,53,Female,Medium,1,Increasing,15.60,2492.10,1988.00,71,142,5254.00,48.74
+228,Alumni,44,Non-binary,Medium,0,Decreasing,3.80,443.63,351.00,13,26,1690.00,42.83
+229,General Fan,55,Male,Medium,1,Increasing,9.20,2948.40,2436.00,84,168,7392.00,35.00
+230,General Fan,24,Male,High,1,Increasing,7.60,1402.20,2016.00,72,216,9072.00,14.96
+231,General Fan,22,Female,High,1,Decreasing,1.00,1512.90,3608.00,82,246,8610.00,36.06
+232,Alumni,60,Male,High,0,Increasing,1.30,492.00,600.00,12,36,4230.00,65.59
+233,Alumni,62,Female,Medium,1,Increasing,12.90,3646.50,1615.00,85,170,6290.00,35.17
+234,Alumni,48,Female,Medium,0,Increasing,29.20,248.63,0.00,17,34,2762.50,18.60
+235,Student,22,Female,Low,0,Increasing,0.55,0.00,80.00,8,24,810.00,38.51
+236,General Fan,59,Male,High,0,Increasing,7.40,153.75,90.00,5,10,987.50,20.32
+237,Student,21,Male,Medium,0,Increasing,0.78,239.85,902.00,41,82,1640.00,64.84
+238,Student,22,Female,Low,0,Stable,1.99,0.00,99.00,9,18,225.00,31.95
+239,General Fan,60,Female,Medium,0,Increasing,26.80,46.80,200.00,4,4,440.00,62.39
+240,Student,19,Male,Medium,0,Decreasing,1.64,0.00,168.00,8,16,480.00,46.09
+241,General Fan,56,Female,High,0,Increasing,17.90,229.60,752.00,16,80,3000.00,56.63
+242,General Fan,48,Male,Medium,0,Increasing,16.40,280.80,392.00,8,56,3850.00,38.49
+243,General Fan,35,Female,Medium,0,Stable,9.60,504.08,473.00,11,11,481.25,21.31
+244,Alumni,53,Male,Medium,0,Increasing,11.20,858.00,1078.00,22,154,9817.50,68.61
+245,Student,21,Non-binary,Low,0,Stable,1.32,1540.00,1056.00,44,88,2310.00,50.91
+246,General Fan,31,Male,High,0,Increasing,11.90,127.10,200.00,4,12,510.00,56.32
+247,Alumni,30,Male,High,1,Stable,13.40,1460.63,1200.00,75,225,9112.50,49.13
+248,General Fan,46,Male,Medium,0,Decreasing,14.70,394.88,0.00,15,30,3187.50,37.83
+249,General Fan,29,Male,Medium,0,Stable,9.10,0.00,261.00,9,9,1023.75,27.03
+250,General Fan,56,Female,High,0,Decreasing,14.30,1108.03,506.00,23,92,7935.00,37.80
+251,Student,22,Non-binary,Low,0,Decreasing,1.58,25.00,95.00,5,5,150.00,75.81
+252,Alumni,49,Male,Medium,0,Increasing,20.50,429.00,418.00,11,22,1677.50,55.29
+253,General Fan,30,Male,Medium,0,Increasing,38.50,273.00,480.00,10,30,3150.00,39.54
+254,Alumni,63,Female,Medium,0,Stable,9.50,407.55,572.00,22,44,5225.00,62.19
+255,Student,21,Female,Low,0,Increasing,0.86,594.00,324.00,27,54,1215.00,41.12
+256,Alumni,58,Female,High,0,Increasing,23.50,41.00,22.00,1,3,273.75,78.98
+257,General Fan,34,Male,High,1,Stable,27.80,1537.50,2175.00,75,75,2475.00,24.67
+258,General Fan,57,Male,Medium,0,Increasing,12.40,695.18,966.00,23,138,9315.00,25.26
+259,Alumni,48,Female,Medium,0,Stable,1.00,368.55,846.00,18,18,1462.50,79.69
+260,Student,22,Male,Low,0,Stable,2.01,0.00,15.00,1,2,70.00,39.12
+261,General Fan,41,Female,Medium,1,Decreasing,16.30,789.75,1188.00,54,162,4860.00,57.07
+262,General Fan,62,Male,Medium,0,Stable,11.50,557.70,520.00,13,39,3071.25,45.65
+263,Student,22,Female,Low,0,Increasing,0.70,54.00,66.00,6,18,247.50,37.66
+264,Alumni,23,Male,High,0,Increasing,16.40,92.25,86.00,2,4,170.00,53.60
+265,General Fan,36,Female,High,1,Decreasing,18.60,2706.00,1140.00,60,180,8010.00,78.84
+266,General Fan,47,Female,Medium,1,Increasing,18.20,2141.10,1647.00,61,61,2043.50,65.82
+267,General Fan,24,Female,Medium,1,Stable,12.80,3775.20,2112.00,88,264,11484.00,71.68
+268,General Fan,27,Male,Medium,0,Stable,18.80,55.58,0.00,3,9,326.25,48.38
+269,Alumni,58,Female,Medium,0,Decreasing,12.10,936.00,600.00,24,72,6480.00,16.13
+270,Student,18,Female,Low,0,Increasing,1.32,30.00,0.00,2,8,130.00,19.45
+271,General Fan,51,Female,High,1,Stable,8.70,3481.93,3634.00,79,79,3278.50,18.54
+272,General Fan,45,Female,Medium,0,Decreasing,15.70,468.00,705.00,15,30,2625.00,12.95
+273,General Fan,32,Female,Medium,0,Decreasing,1.00,0.00,0.00,5,10,462.50,36.26
+274,General Fan,47,Female,High,1,Increasing,11.30,3616.20,2520.00,84,252,11844.00,38.40
+275,Alumni,54,Male,Medium,0,Stable,20.70,916.50,600.00,20,60,5550.00,46.87
+276,Alumni,46,Female,Medium,0,Decreasing,4.70,124.80,392.00,8,24,1020.00,44.53
+277,General Fan,39,Female,Medium,0,Stable,11.80,272.03,324.00,9,45,5625.00,54.28
+278,General Fan,21,Male,Medium,0,Stable,1.00,175.50,0.00,6,6,180.00,56.16
+279,General Fan,37,Male,Medium,1,Increasing,1.30,809.25,1909.00,83,249,7719.00,74.69
+280,General Fan,49,Male,High,0,Decreasing,3.90,331.08,833.00,17,51,1976.25,76.01
+281,General Fan,53,Female,Medium,0,Stable,16.00,54.60,164.00,4,28,2450.00,54.90
+282,Alumni,23,Female,Medium,0,Increasing,18.30,251.55,126.00,6,12,1425.00,33.08
+283,Alumni,44,Female,Medium,0,Stable,14.40,351.00,468.00,12,72,7560.00,24.49
+284,Student,18,Female,Medium,0,Stable,1.00,0.00,72.00,6,6,150.00,49.57
+285,Alumni,29,Male,High,1,Decreasing,11.20,1254.60,2448.00,51,153,6732.00,52.95
+286,Student,22,Male,Medium,0,Stable,0.29,1360.13,765.00,45,180,6075.00,52.91
+287,Alumni,34,Male,High,0,Stable,17.10,230.63,243.00,9,36,3690.00,59.70
+288,Alumni,27,Male,High,0,Stable,11.70,221.40,333.00,9,9,967.50,49.85
+289,Student,22,Male,Medium,0,Increasing,1.02,0.00,56.00,7,14,350.00,9.16
+290,Alumni,39,Male,High,0,Increasing,34.50,313.65,450.00,9,27,2801.25,24.45
+291,Student,21,Female,Low,0,Decreasing,2.10,21.00,57.00,3,6,150.00,36.99
+292,Student,18,Female,Medium,0,Decreasing,1.33,0.00,63.00,3,12,270.00,43.23
+293,General Fan,31,Non-binary,Medium,0,Decreasing,45.90,210.60,360.00,9,18,742.50,30.79
+294,Alumni,64,Non-binary,Medium,0,Stable,17.80,343.20,572.00,22,66,1815.00,59.38
+295,Student,21,Female,Medium,0,Increasing,1.54,234.00,104.00,8,8,260.00,52.86
+296,Alumni,29,Male,High,0,Decreasing,14.40,295.20,296.00,8,16,1440.00,42.65
+297,General Fan,53,Female,Medium,0,Increasing,19.90,544.05,0.00,18,108,5535.00,47.55
+298,Student,21,Female,Medium,0,Stable,2.09,44.85,2.00,2,8,260.00,53.75
+299,General Fan,29,Male,High,1,Decreasing,2.60,2762.38,1925.00,77,77,2618.00,14.73
+300,Student,19,Male,Low,0,Increasing,1.02,70.00,0.00,2,8,200.00,17.07
+301,Student,19,Female,Low,0,Increasing,2.06,0.00,64.00,8,8,300.00,57.31
+302,Alumni,28,Male,Medium,1,Stable,12.90,2486.25,3600.00,75,150,6600.00,52.09
+303,Alumni,50,Female,Medium,0,Decreasing,6.00,0.00,216.00,8,16,1100.00,52.54
+304,General Fan,23,Female,Medium,1,Increasing,18.40,1755.00,2430.00,90,180,7830.00,62.25
+305,General Fan,64,Male,Medium,0,Stable,1.00,760.50,1248.00,26,26,2047.50,51.99
+306,General Fan,32,Male,Medium,0,Stable,9.90,149.18,378.00,9,18,2047.50,25.03
+307,Alumni,49,Male,High,1,Stable,24.70,1568.25,4230.00,90,180,6930.00,60.56
+308,Alumni,28,Male,Medium,0,Decreasing,8.20,140.40,432.00,12,96,6000.00,28.26
+309,General Fan,40,Male,Medium,0,Decreasing,1.00,121.88,250.00,5,5,200.00,66.82
+310,Student,21,Female,Medium,0,Stable,0.34,772.20,880.00,44,88,1100.00,20.75
+311,Alumni,51,Male,High,0,Decreasing,9.10,262.40,256.00,16,48,5340.00,52.74
+312,Student,18,Female,Low,0,Stable,0.35,100.00,40.00,20,80,2400.00,15.52
+313,Student,18,Male,Medium,0,Increasing,1.03,14.63,0.00,3,3,82.50,36.75
+314,General Fan,46,Non-binary,Medium,0,Decreasing,34.70,526.50,846.00,18,36,3780.00,57.21
+315,General Fan,21,Male,Medium,0,Increasing,1.00,0.00,58.00,2,4,115.00,46.01
+316,General Fan,34,Male,Medium,1,Increasing,13.30,2413.13,1875.00,75,75,2362.50,58.90
+317,Alumni,52,Female,High,0,Increasing,11.10,461.25,396.00,9,63,4567.50,47.73
+318,Student,21,Female,Low,0,Increasing,1.11,44.00,0.00,2,8,170.00,13.61
+319,Student,19,Male,Medium,0,Stable,0.36,0.00,0.00,6,6,150.00,41.60
+320,Student,21,Female,Low,0,Increasing,1.73,90.00,30.00,6,18,652.50,47.02
+321,Alumni,32,Female,High,0,Decreasing,7.20,110.70,258.00,6,6,750.00,51.50
+322,General Fan,46,Female,Medium,0,Stable,21.00,702.00,630.00,18,18,607.50,13.94
+323,General Fan,46,Male,Medium,0,Decreasing,1.00,181.35,0.00,6,18,585.00,31.64
+324,Student,18,Male,Low,0,Increasing,1.37,93.00,12.00,3,12,180.00,65.63
+325,General Fan,49,Female,High,0,Stable,1.00,147.60,138.00,6,18,2205.00,13.56
+326,General Fan,19,Female,Medium,0,Decreasing,17.70,122.85,105.00,3,18,990.00,50.38
+327,Alumni,64,Male,Medium,0,Stable,23.50,444.60,336.00,12,36,1305.00,31.01
+328,General Fan,31,Female,Medium,0,Stable,2.30,25.35,42.00,1,7,125.00,20.50
+329,Alumni,37,Female,Medium,0,Stable,21.80,177.45,504.00,14,112,4340.00,40.12
+330,Student,22,Male,Low,0,Decreasing,1.84,70.00,0.00,5,5,150.00,41.99
+331,Alumni,28,Female,Medium,1,Increasing,11.00,3354.00,3870.00,86,258,11610.00,49.23
+332,General Fan,44,Male,Medium,0,Decreasing,6.40,351.00,432.00,18,108,11745.00,21.43
+333,Student,20,Female,Low,0,Increasing,0.70,126.00,54.00,9,36,675.00,51.64
+334,Student,21,Female,Medium,0,Stable,1.77,218.40,63.00,7,21,787.50,26.75
+335,Student,19,Non-binary,Low,0,Increasing,1.48,0.00,0.00,4,8,240.00,31.49
+336,Student,18,Male,Medium,0,Increasing,1.50,87.75,0.00,3,3,48.75,31.28
+337,General Fan,46,Male,High,1,Stable,13.50,2132.00,3840.00,80,160,4960.00,58.83
+338,General Fan,38,Male,High,0,Decreasing,12.40,578.10,456.00,12,60,4800.00,45.16
+339,Alumni,64,Male,Medium,1,Increasing,13.30,1950.98,2829.00,69,69,2794.50,41.89
+340,Student,22,Male,Low,0,Decreasing,1.04,18.00,57.00,3,9,180.00,42.18
+341,Alumni,54,Non-binary,Medium,1,Stable,15.00,1632.15,2604.00,93,279,11160.00,19.68
+342,Alumni,37,Male,Medium,0,Increasing,9.10,702.00,384.00,16,48,5580.00,44.33
+343,Student,20,Male,Medium,0,Stable,1.26,35.10,0.00,4,16,380.00,29.68
+344,Alumni,36,Female,Medium,0,Increasing,16.70,289.58,0.00,9,36,1035.00,40.70
+345,Alumni,62,Male,Medium,0,Stable,18.80,643.50,600.00,15,15,1575.00,81.83
+346,General Fan,20,Female,Medium,0,Stable,22.00,0.00,0.00,4,16,1080.00,8.84
+347,General Fan,18,Male,Medium,1,Increasing,14.10,1825.20,1080.00,72,72,3204.00,51.51
+348,Student,19,Female,Low,0,Decreasing,2.09,23.00,0.00,1,2,50.00,68.20
+349,Alumni,32,Male,Medium,0,Increasing,14.30,0.00,51.00,3,18,1620.00,87.02
+350,General Fan,51,Male,Medium,0,Stable,26.90,461.18,187.00,11,11,343.75,56.35
+351,Alumni,52,Non-binary,High,1,Decreasing,13.80,1428.85,3608.00,82,82,3034.00,55.73
+352,General Fan,42,Male,Medium,0,Decreasing,1.00,102.38,266.00,7,21,2546.25,31.31
+353,General Fan,41,Female,High,1,Increasing,2.10,3280.00,2000.00,80,240,11160.00,70.15
+354,Student,22,Male,Medium,0,Increasing,1.18,52.65,18.00,2,8,190.00,63.61
+355,Student,18,Male,Medium,0,Increasing,2.20,0.00,0.00,2,4,145.00,55.26
+356,General Fan,32,Female,Medium,0,Increasing,21.70,112.13,0.00,5,10,687.50,43.42
+357,Student,22,Male,Medium,0,Decreasing,0.56,0.00,54.00,9,36,1305.00,51.29
+358,Alumni,33,Female,High,0,Stable,17.60,394.63,451.00,11,55,5293.75,42.30
+359,General Fan,44,Non-binary,Medium,0,Decreasing,5.50,210.60,456.00,12,12,1455.00,57.49
+360,Alumni,25,Female,High,0,Decreasing,17.60,123.00,57.00,3,18,1755.00,11.87
+361,Alumni,63,Non-binary,Medium,1,Stable,15.50,3105.38,2535.00,65,195,7117.50,27.01
+362,General Fan,42,Male,Medium,0,Stable,6.80,120.90,188.00,4,16,1000.00,66.99
+363,Alumni,34,Male,High,1,Stable,30.60,968.63,2772.00,63,189,8977.50,80.03
+364,Alumni,46,Male,Medium,0,Decreasing,1.00,109.20,0.00,7,21,1286.25,53.77
+365,General Fan,25,Female,High,0,Increasing,13.60,43.05,44.00,2,2,122.50,16.91
+366,Alumni,32,Non-binary,Medium,0,Increasing,6.60,0.00,0.00,2,16,840.00,85.63
+367,General Fan,44,Male,Medium,1,Stable,13.30,1962.68,2013.00,61,122,3843.00,26.50
+368,General Fan,63,Female,Medium,0,Increasing,21.00,530.40,0.00,17,136,8500.00,45.31
+369,Student,20,Male,Medium,0,Increasing,0.48,202.80,364.00,26,26,455.00,51.90
+370,Student,19,Female,Low,0,Decreasing,1.84,0.00,4.00,1,1,37.50,22.86
+371,Student,21,Female,Low,0,Decreasing,0.48,48.00,38.00,2,4,60.00,23.04
+372,Student,21,Non-binary,Medium,0,Decreasing,0.53,0.00,18.00,9,9,168.75,36.30
+373,Student,20,Female,Low,0,Increasing,0.26,90.00,0.00,6,24,540.00,68.75
+374,General Fan,20,Male,High,0,Increasing,17.90,53.30,176.00,4,24,2190.00,28.29
+375,Student,21,Male,Low,0,Decreasing,1.02,70.00,46.00,2,2,57.50,62.60
+376,Alumni,63,Male,High,1,Stable,21.70,2586.08,2784.00,87,87,3349.50,11.69
+377,General Fan,32,Male,Medium,1,Stable,21.70,2018.25,1173.00,69,207,8176.50,52.91
+378,Student,19,Male,Low,0,Stable,1.95,414.00,0.00,23,23,776.25,40.41
+379,General Fan,47,Female,Medium,0,Stable,1.00,570.38,637.00,13,13,910.00,59.76
+380,Student,22,Female,Low,0,Decreasing,2.16,182.00,119.00,7,7,87.50,33.26
+381,Student,20,Female,Low,0,Increasing,1.46,24.00,10.00,2,2,60.00,30.29
+382,General Fan,34,Male,Medium,1,Decreasing,3.90,536.25,2365.00,55,110,3685.00,79.14
+383,General Fan,61,Female,High,0,Decreasing,1.00,155.80,152.00,8,48,2700.00,70.37
+384,General Fan,37,Female,High,0,Decreasing,33.70,118.90,132.00,4,12,1500.00,46.80
+385,General Fan,53,Male,High,0,Decreasing,1.00,252.15,294.00,6,24,1980.00,45.02
+386,General Fan,26,Female,Medium,1,Decreasing,11.50,2850.90,3612.00,86,258,10191.00,54.40
+387,Student,20,Female,Low,0,Increasing,0.70,112.00,0.00,7,14,210.00,43.12
+388,Student,21,Male,Low,0,Decreasing,1.71,24.00,0.00,4,16,580.00,25.32
+389,General Fan,19,Female,High,0,Increasing,1.00,252.15,150.00,6,6,510.00,71.20
+390,General Fan,41,Female,Medium,1,Stable,19.20,1928.55,1290.00,86,86,3569.00,36.75
+391,General Fan,25,Male,Medium,0,Increasing,6.10,228.15,0.00,6,6,510.00,50.46
+392,Alumni,28,Non-binary,Medium,1,Increasing,21.30,2223.00,1620.00,60,120,4320.00,46.69
+393,Alumni,30,Female,Medium,1,Decreasing,5.90,3003.00,1925.00,77,231,8778.00,17.11
+394,General Fan,34,Female,Medium,0,Decreasing,30.70,0.00,224.00,8,16,1920.00,37.90
+395,Alumni,25,Female,Medium,0,Decreasing,6.00,438.75,396.00,9,72,6390.00,20.39
+396,General Fan,38,Male,Medium,0,Increasing,1.00,163.80,540.00,12,60,2400.00,47.53
+397,General Fan,35,Female,High,0,Decreasing,7.10,133.25,442.00,13,13,1121.25,28.26
+398,Alumni,47,Female,Medium,0,Increasing,12.40,807.30,414.00,18,144,11520.00,34.81
+399,General Fan,35,Male,Medium,0,Stable,25.80,0.00,30.00,1,8,227.50,59.66
+400,General Fan,63,Female,High,0,Stable,2.40,973.75,875.00,25,25,2250.00,39.58
+401,Student,21,Female,Low,0,Decreasing,1.48,294.00,1050.00,42,84,2100.00,38.53
+402,General Fan,48,Female,High,0,Increasing,24.60,66.63,80.00,5,10,362.50,76.15
+403,Alumni,55,Male,High,0,Stable,1.20,410.00,480.00,16,32,2440.00,6.04
+404,General Fan,49,Female,Medium,0,Increasing,13.20,163.80,0.00,12,36,3060.00,23.63
+405,Alumni,28,Male,Medium,0,Decreasing,13.40,257.40,168.00,8,24,2190.00,36.44
+406,General Fan,62,Male,High,0,Increasing,17.20,264.45,132.00,6,12,510.00,27.37
+407,Alumni,42,Male,High,1,Stable,7.50,812.83,1830.00,61,122,3904.00,58.94
+408,Student,20,Male,Low,0,Increasing,1.95,0.00,0.00,2,4,130.00,34.95
+409,General Fan,55,Female,Medium,0,Decreasing,18.30,483.60,560.00,16,48,5220.00,29.75
+410,Student,21,Female,Low,0,Stable,0.48,364.00,84.00,14,42,525.00,29.96
+411,Alumni,25,Male,High,1,Decreasing,1.40,1951.60,2244.00,68,136,5372.00,62.46
+412,General Fan,28,Female,Medium,1,Increasing,27.30,3270.15,4214.00,86,258,10707.00,22.42
+413,General Fan,39,Female,Medium,1,Stable,19.90,2886.00,3404.00,74,148,4514.00,35.20
+414,Alumni,41,Female,High,1,Decreasing,12.70,2970.45,1104.00,69,207,8901.00,50.91
+415,General Fan,58,Male,Medium,0,Decreasing,22.80,377.33,207.00,9,63,6930.00,52.26
+416,Alumni,34,Female,High,0,Increasing,2.30,209.10,204.00,6,30,862.50,37.49
+417,Student,22,Non-binary,Low,0,Decreasing,0.68,1040.00,800.00,40,80,2700.00,77.79
+418,Alumni,63,Female,Medium,0,Decreasing,4.80,504.08,440.00,11,11,990.00,42.78
+419,General Fan,49,Male,Medium,1,Increasing,1.00,3003.00,1540.00,70,140,4550.00,66.52
+420,General Fan,32,Male,Medium,0,Increasing,10.50,117.00,400.00,10,60,7350.00,29.52
+421,General Fan,33,Female,Medium,1,Stable,24.80,2040.68,3640.00,91,91,3003.00,64.01
+422,General Fan,39,Non-binary,High,1,Increasing,17.70,861.00,1120.00,70,70,3360.00,41.09
+423,Student,19,Female,Medium,0,Increasing,1.98,23.40,36.00,2,8,160.00,51.67
+424,Alumni,37,Female,High,0,Decreasing,10.20,49.20,32.00,2,16,520.00,46.22
+425,Student,20,Male,Low,0,Stable,0.47,0.00,39.00,3,3,108.75,58.10
+426,Alumni,27,Female,High,1,Increasing,1.00,3198.00,2730.00,65,130,5850.00,73.74
+427,Alumni,57,Female,Medium,0,Decreasing,22.10,117.00,190.00,10,10,300.00,51.10
+428,General Fan,49,Male,High,0,Increasing,12.70,563.75,440.00,11,11,1003.75,72.22
+429,Alumni,50,Female,High,1,Increasing,1.10,1592.85,2886.00,74,222,10656.00,42.63
+430,Student,20,Non-binary,Medium,0,Increasing,1.04,187.20,6.00,6,24,810.00,13.41
+431,Student,21,Male,Low,0,Stable,1.46,252.00,0.00,9,18,382.50,32.63
+432,General Fan,50,Female,High,0,Increasing,11.20,516.60,492.00,12,24,660.00,26.46
+433,General Fan,58,Male,Medium,0,Increasing,26.90,351.00,390.00,10,20,1900.00,32.74
+434,Student,19,Female,Low,0,Decreasing,0.29,17.00,18.00,1,2,27.50,41.28
+435,Student,19,Female,Low,0,Stable,1.85,54.00,84.00,6,18,675.00,25.86
+436,General Fan,50,Female,High,0,Increasing,9.70,754.40,512.00,16,16,1500.00,45.98
+437,Student,22,Female,Low,0,Decreasing,1.17,21.00,72.00,3,12,165.00,21.06
+438,General Fan,43,Male,Medium,0,Increasing,18.10,228.15,520.00,13,78,5947.50,12.94
+439,General Fan,39,Non-binary,Medium,1,Decreasing,15.90,718.58,3216.00,67,134,5695.00,51.35
+440,Student,22,Female,Low,0,Decreasing,1.25,39.00,15.00,3,12,450.00,35.10
+441,Student,19,Male,Low,0,Decreasing,0.59,304.00,760.00,38,38,1282.50,99.90
+442,General Fan,55,Female,Medium,0,Increasing,8.30,52.65,0.00,2,8,410.00,54.11
+443,Alumni,56,Female,Medium,0,Increasing,13.20,655.20,400.00,16,128,8000.00,33.88
+444,Alumni,43,Male,Medium,1,Increasing,4.00,1167.08,1449.00,63,63,2614.50,64.84
+445,General Fan,63,Female,Medium,0,Increasing,1.00,291.53,598.00,13,13,1251.25,21.84
+446,General Fan,32,Non-binary,High,0,Increasing,14.00,92.25,300.00,6,12,840.00,41.74
+447,General Fan,51,Male,High,0,Stable,7.20,240.88,140.00,5,15,1125.00,58.27
+448,General Fan,59,Non-binary,Medium,1,Stable,12.70,3357.90,2772.00,84,168,5880.00,32.22
+449,Alumni,61,Male,Medium,1,Stable,16.00,2193.75,1800.00,90,90,3870.00,31.31
+450,Student,21,Male,Low,0,Stable,2.09,288.00,336.00,24,96,2040.00,21.88
+451,General Fan,28,Male,High,0,Decreasing,13.80,112.75,374.00,11,11,1237.50,39.39
+452,Alumni,24,Female,High,0,Stable,15.90,344.40,280.00,7,21,1863.75,61.93
+453,Alumni,23,Female,Medium,1,Increasing,1.00,1813.50,2760.00,60,120,3900.00,36.00
+454,General Fan,26,Male,Medium,0,Decreasing,4.60,117.98,231.00,11,11,742.50,47.23
+455,Student,22,Male,Low,0,Decreasing,0.69,48.00,57.00,3,3,71.25,40.45
+456,Alumni,26,Female,High,0,Decreasing,17.10,254.20,280.00,8,24,2070.00,40.93
+457,Student,20,Male,Low,0,Stable,1.04,96.00,0.00,6,18,607.50,46.48
+458,Alumni,48,Female,Medium,1,Increasing,19.90,1443.00,1480.00,74,74,2960.00,39.14
+459,Student,21,Female,Low,0,Increasing,1.43,24.00,54.00,3,6,180.00,75.64
+460,Student,18,Female,Medium,0,Stable,1.41,580.13,0.00,17,51,1402.50,66.87
+461,Student,19,Non-binary,Low,0,Increasing,0.62,1131.00,234.00,39,39,731.25,46.84
+462,General Fan,25,Male,Medium,0,Decreasing,4.40,0.00,0.00,7,7,743.75,21.15
+463,General Fan,25,Non-binary,High,1,Stable,13.80,4383.93,3094.00,91,273,8872.50,65.77
+464,Alumni,45,Female,Medium,1,Decreasing,21.10,2659.80,2604.00,62,124,4154.00,29.93
+465,General Fan,37,Female,High,1,Decreasing,25.00,772.85,1914.00,58,116,4524.00,81.38
+466,Alumni,64,Male,High,0,Increasing,1.00,133.25,260.00,13,91,8531.25,46.57
+467,Student,21,Female,Low,0,Increasing,1.03,40.00,25.00,5,10,312.50,47.56
+468,General Fan,28,Male,High,0,Stable,6.00,418.20,564.00,12,24,2190.00,44.08
+469,Student,18,Male,Medium,0,Decreasing,2.14,66.30,0.00,4,16,600.00,21.55
+470,General Fan,33,Male,High,0,Decreasing,23.50,45.10,74.00,2,14,1382.50,69.87
+471,Student,22,Female,Low,0,Increasing,0.29,204.00,132.00,12,48,720.00,47.58
+472,General Fan,23,Female,Medium,1,Increasing,8.20,1521.00,1872.00,78,156,5694.00,50.71
+473,Student,21,Female,Low,0,Stable,0.31,390.00,540.00,30,30,750.00,47.52
+474,General Fan,43,Female,Medium,0,Increasing,9.60,468.00,800.00,16,80,4800.00,56.47
+475,Alumni,23,Male,Medium,1,Decreasing,13.90,1269.45,3534.00,93,93,3906.00,56.79
+476,General Fan,58,Female,Medium,0,Increasing,17.80,0.00,57.00,3,12,1425.00,27.34
+477,Student,20,Male,Medium,0,Decreasing,1.71,477.75,210.00,14,14,472.50,32.05
+478,Alumni,31,Female,High,1,Stable,28.20,2838.23,2911.00,71,71,2946.50,63.72
+479,General Fan,28,Female,High,0,Decreasing,28.60,116.85,144.00,3,12,675.00,43.25
+480,Alumni,35,Female,Medium,0,Increasing,32.90,343.20,128.00,8,24,1500.00,35.95
+481,General Fan,29,Female,Medium,0,Decreasing,35.90,111.15,0.00,3,15,1012.50,39.70
+482,General Fan,40,Male,Medium,0,Stable,22.10,87.75,387.00,9,27,2970.00,43.57
+483,Alumni,29,Female,High,0,Decreasing,11.50,322.88,432.00,9,18,1732.50,24.35
+484,General Fan,30,Female,Medium,1,Stable,13.00,4436.25,3731.00,91,182,5824.00,35.73
+485,Alumni,42,Female,Medium,0,Decreasing,12.10,482.63,165.00,11,66,2062.50,55.97
+486,General Fan,62,Male,High,0,Stable,11.00,1037.30,968.00,22,44,5280.00,41.25
+487,Student,19,Female,Medium,0,Decreasing,0.29,278.85,286.00,13,26,357.50,46.77
+488,Student,20,Female,Low,0,Increasing,0.61,255.00,375.00,15,15,356.25,48.24
+489,General Fan,53,Male,High,0,Increasing,24.70,294.18,217.00,7,14,1732.50,39.84
+490,General Fan,62,Male,Medium,0,Increasing,21.80,912.60,384.00,24,48,2760.00,60.04
+491,Alumni,25,Female,High,1,Stable,4.00,1691.25,1254.00,66,132,5148.00,25.62
+492,General Fan,46,Female,High,0,Stable,1.00,143.50,238.00,7,56,4970.00,26.94
+493,Student,19,Male,Low,0,Decreasing,0.47,0.00,0.00,6,24,780.00,62.40
+494,Student,18,Male,Low,0,Increasing,0.89,88.00,128.00,8,16,260.00,21.50
+495,Alumni,35,Male,High,1,Increasing,16.30,1199.25,2665.00,65,130,5070.00,20.55
+496,Alumni,23,Male,Medium,0,Stable,8.50,89.70,60.00,4,32,2320.00,48.72
+497,Alumni,35,Female,High,0,Decreasing,22.00,377.20,264.00,8,8,430.00,56.84
+498,Student,20,Female,Medium,0,Increasing,1.91,900.90,693.00,33,132,4785.00,24.57
+499,General Fan,39,Female,Medium,1,Decreasing,17.60,4032.60,1496.00,88,176,5368.00,70.14
+500,General Fan,54,Female,High,0,Increasing,16.20,590.40,512.00,16,96,11760.00,59.66
+501,General Fan,49,Male,High,1,Increasing,12.30,2941.75,1260.00,70,70,2835.00,18.12
+502,Alumni,58,Female,Medium,0,Decreasing,5.20,0.00,96.00,3,3,315.00,47.09
+503,Alumni,26,Female,Medium,1,Increasing,17.10,2252.25,3150.00,70,70,3220.00,42.62
+504,General Fan,45,Non-binary,Medium,0,Stable,9.10,218.40,0.00,8,56,5670.00,61.91
+505,General Fan,27,Female,High,0,Increasing,1.60,133.25,160.00,5,30,2287.50,25.95
+506,Student,19,Male,Low,0,Increasing,1.19,203.00,175.00,7,21,761.25,62.29
+507,General Fan,46,Female,Medium,0,Increasing,17.40,136.50,686.00,14,28,2170.00,39.76
+508,General Fan,32,Male,Medium,0,Stable,24.00,48.75,0.00,1,8,50.00,45.76
+509,General Fan,50,Female,High,0,Decreasing,21.00,350.55,608.00,19,38,4512.50,53.00
+510,General Fan,24,Male,Medium,0,Decreasing,23.00,125.78,0.00,3,9,337.50,33.20
+511,General Fan,29,Male,Medium,0,Increasing,7.30,302.25,480.00,10,30,2775.00,56.96
+512,Alumni,47,Female,Medium,1,Increasing,18.30,1404.00,2160.00,72,72,3024.00,65.09
+513,General Fan,38,Male,High,0,Decreasing,15.00,34.85,41.00,1,6,292.50,48.98
+514,General Fan,48,Female,Medium,0,Stable,33.10,282.75,490.00,10,10,425.00,57.75
+515,Student,22,Male,Low,0,Stable,1.19,315.00,63.00,21,21,708.75,55.79
+516,Student,18,Female,Low,0,Increasing,0.23,49.00,21.00,7,14,455.00,24.37
+517,Alumni,54,Female,Medium,0,Decreasing,3.40,307.13,133.00,7,28,2485.00,8.94
+518,General Fan,21,Female,High,0,Stable,16.40,98.40,258.00,6,42,3150.00,43.19
+519,General Fan,45,Male,Medium,0,Increasing,17.90,234.00,230.00,10,60,5550.00,43.71
+520,Student,21,Male,Low,0,Stable,0.72,546.00,0.00,21,63,1890.00,61.18
+521,Alumni,37,Male,Medium,1,Increasing,19.50,1404.00,1080.00,60,120,5040.00,42.41
+522,Alumni,41,Male,Medium,0,Stable,17.30,46.80,188.00,4,12,1140.00,57.79
+523,General Fan,49,Female,Medium,0,Stable,25.10,0.00,0.00,8,16,1840.00,52.24
+524,General Fan,58,Non-binary,High,1,Stable,27.10,2306.25,3600.00,90,90,3780.00,32.46
+525,General Fan,53,Female,Medium,0,Decreasing,15.90,432.90,0.00,12,24,2460.00,51.71
+526,Alumni,51,Female,Medium,1,Increasing,4.60,2702.70,2838.00,66,132,5478.00,66.24
+527,Alumni,53,Female,Medium,1,Stable,6.70,2488.20,2992.00,88,264,13068.00,64.42
+528,Student,21,Female,Low,0,Increasing,1.86,1232.00,792.00,44,44,825.00,60.76
+529,Student,22,Male,Low,0,Increasing,1.62,494.00,494.00,26,26,617.50,65.94
+530,General Fan,51,Non-binary,Medium,0,Stable,32.50,240.83,475.00,19,57,4488.75,40.05
+531,General Fan,53,Female,High,0,Stable,20.00,157.85,224.00,7,7,831.25,12.56
+532,General Fan,23,Female,Medium,1,Stable,22.50,2927.93,1820.00,91,182,8918.00,61.88
+533,General Fan,56,Male,Medium,1,Increasing,24.40,2445.30,1520.00,76,228,9462.00,53.29
+534,Alumni,59,Male,High,0,Stable,2.80,230.63,225.00,15,75,9375.00,34.64
+535,General Fan,29,Female,Medium,0,Stable,18.10,0.00,240.00,8,40,3250.00,39.91
+536,General Fan,20,Female,High,0,Increasing,2.60,23.58,22.00,1,2,165.00,49.48
+537,General Fan,62,Female,High,0,Increasing,12.20,301.35,182.00,7,49,2940.00,53.56
+538,Student,21,Male,Low,0,Increasing,2.14,714.00,0.00,21,84,1260.00,75.63
+539,Alumni,57,Non-binary,High,0,Increasing,4.70,77.90,54.00,2,2,115.00,51.97
+540,Student,18,Male,Low,0,Stable,2.14,0.00,0.00,2,8,120.00,41.70
+541,General Fan,32,Male,Medium,0,Decreasing,1.00,386.10,261.00,9,9,450.00,8.17
+542,General Fan,50,Male,Medium,0,Stable,26.40,163.80,0.00,12,72,3510.00,25.55
+543,Student,18,Female,Low,0,Stable,2.01,42.00,63.00,7,14,472.50,38.72
+544,General Fan,43,Non-binary,Medium,0,Increasing,4.70,124.80,0.00,4,12,1230.00,38.47
+545,General Fan,25,Male,Medium,1,Stable,1.00,1684.80,2016.00,72,72,2304.00,32.17
+546,Alumni,53,Female,Medium,1,Decreasing,9.20,1419.60,3731.00,91,91,3230.50,35.96
+547,Student,20,Male,Low,0,Stable,1.43,30.00,54.00,3,6,82.50,42.55
+548,General Fan,40,Non-binary,Medium,0,Increasing,9.50,409.50,645.00,15,15,900.00,36.28
+549,Alumni,59,Female,High,0,Stable,26.00,645.75,690.00,15,15,431.25,66.29
+550,General Fan,61,Female,High,1,Increasing,13.10,2609.65,3149.00,67,67,3350.00,12.01
+551,Alumni,31,Male,High,1,Increasing,3.20,1476.00,3384.00,72,216,6804.00,23.73
+552,General Fan,31,Non-binary,High,0,Stable,17.30,225.50,250.00,5,15,1162.50,53.73
+553,Alumni,34,Female,Medium,1,Increasing,16.40,3391.05,2146.00,74,74,2997.00,75.89
+554,Alumni,54,Male,Medium,0,Decreasing,34.60,0.00,76.00,4,4,150.00,50.49
+555,General Fan,22,Female,Medium,0,Decreasing,22.90,0.00,72.00,3,6,360.00,34.62
+556,Alumni,55,Male,Medium,0,Stable,18.10,296.40,768.00,16,128,9920.00,40.01
+557,Student,20,Female,Low,0,Increasing,0.79,864.00,459.00,27,27,506.25,72.62
+558,Student,21,Male,Low,0,Increasing,1.69,63.00,27.00,9,18,427.50,55.30
+559,General Fan,64,Female,High,0,Increasing,14.20,1156.20,888.00,24,24,1110.00,42.80
+560,General Fan,31,Female,High,1,Decreasing,11.60,1635.90,3420.00,76,228,10032.00,46.62
+561,General Fan,56,Male,High,0,Increasing,1.00,498.15,702.00,18,18,1507.50,40.04
+562,Student,19,Male,Low,0,Increasing,1.44,115.00,65.00,5,5,162.50,45.10
+563,Student,21,Male,Medium,0,Increasing,0.39,298.35,204.00,17,17,595.00,31.80
+564,Student,20,Female,Low,0,Increasing,0.94,812.00,420.00,28,112,1820.00,15.56
+565,Alumni,56,Male,High,0,Decreasing,9.50,848.70,270.00,18,36,1755.00,67.26
+566,Alumni,23,Female,High,1,Stable,16.50,3394.80,3528.00,72,216,8748.00,46.16
+567,Alumni,34,Male,High,0,Increasing,14.60,123.00,232.00,8,24,2130.00,37.92
+568,Alumni,42,Male,High,0,Decreasing,10.90,141.45,198.00,6,18,1845.00,57.46
+569,General Fan,45,Female,Medium,1,Decreasing,8.00,2121.60,1344.00,64,128,4480.00,20.03
+570,Alumni,42,Male,Medium,1,Decreasing,1.00,2870.40,1472.00,64,128,3968.00,96.20
+571,Alumni,52,Non-binary,High,0,Stable,7.80,49.20,112.00,4,16,620.00,35.94
+572,General Fan,54,Female,Medium,0,Decreasing,9.90,266.18,322.00,7,7,525.00,54.89
+573,Alumni,23,Female,Medium,0,Decreasing,16.50,292.50,0.00,6,6,570.00,25.35
+574,General Fan,18,Female,High,0,Increasing,34.60,92.25,115.00,5,25,1593.75,21.81
+575,General Fan,57,Female,Medium,0,Decreasing,8.80,43.88,0.00,3,6,367.50,40.20
+576,General Fan,29,Male,High,1,Decreasing,4.80,1779.40,2744.00,56,56,2100.00,44.43
+577,Student,19,Male,Low,0,Increasing,2.18,385.00,665.00,35,70,1400.00,53.85
+578,General Fan,62,Male,Medium,0,Increasing,16.50,19.50,26.00,1,1,86.25,39.51
+579,Alumni,40,Female,Medium,1,Stable,20.90,3018.60,3312.00,72,72,2736.00,55.32
+580,Student,18,Male,Medium,0,Decreasing,0.91,107.25,0.00,5,15,506.25,32.68
+581,Alumni,48,Female,Medium,1,Decreasing,23.30,3299.40,1944.00,72,216,9072.00,72.46
+582,General Fan,28,Non-binary,Medium,0,Stable,24.70,0.00,108.00,3,21,787.50,38.67
+583,Alumni,27,Female,Medium,0,Stable,12.20,429.98,0.00,9,72,5490.00,47.65
+584,Alumni,28,Female,Medium,0,Decreasing,35.50,432.90,0.00,12,36,3645.00,56.82
+585,General Fan,31,Male,Medium,0,Stable,11.50,320.78,329.00,7,42,1785.00,46.58
+586,Student,19,Female,Low,0,Stable,0.30,50.00,45.00,5,20,350.00,39.08
+587,Student,21,Female,Low,0,Decreasing,0.85,319.00,174.00,29,116,1740.00,32.00
+588,Student,21,Male,Low,0,Decreasing,0.48,234.00,0.00,9,27,337.50,42.07
+589,Student,21,Male,Low,0,Increasing,0.98,42.00,0.00,6,24,690.00,40.18
+590,Student,21,Non-binary,Medium,0,Stable,2.01,0.00,144.00,8,16,480.00,46.27
+591,Student,22,Female,Low,0,Decreasing,1.34,112.00,0.00,8,32,600.00,58.63
+592,General Fan,58,Female,Medium,1,Increasing,1.60,2914.28,2257.00,61,122,5734.00,31.64
+593,Student,20,Female,Medium,0,Stable,1.22,54.60,6.00,2,2,35.00,50.09
+594,Alumni,23,Female,High,1,Decreasing,18.90,1812.20,2236.00,52,156,6240.00,55.12
+595,General Fan,37,Female,Medium,0,Increasing,26.80,0.00,0.00,5,35,1706.25,39.60
+596,Alumni,25,Male,Medium,0,Decreasing,8.10,193.05,418.00,11,22,2502.50,60.34
+597,General Fan,60,Male,High,0,Decreasing,25.00,70.73,75.00,3,3,348.75,44.29
+598,Student,22,Male,Low,0,Stable,0.81,21.00,25.00,1,1,37.50,40.18
+599,Student,20,Female,Medium,0,Increasing,0.32,93.60,0.00,3,6,97.50,50.94
+600,Student,22,Female,Low,0,Stable,1.14,0.00,0.00,4,8,290.00,38.76
+601,Student,18,Female,Low,0,Decreasing,0.78,0.00,0.00,3,9,180.00,51.47
+602,Student,21,Male,Low,0,Increasing,0.98,189.00,198.00,9,27,675.00,41.10
+603,Student,19,Female,Medium,0,Stable,1.44,351.00,220.00,20,20,350.00,77.15
+604,Student,19,Female,Low,0,Decreasing,1.28,46.00,0.00,2,2,55.00,37.00
+605,Student,18,Female,Medium,0,Increasing,1.13,403.65,253.00,23,92,1495.00,49.83
+606,Alumni,29,Female,High,0,Decreasing,14.60,282.90,336.00,12,12,1080.00,46.58
+607,Student,19,Male,Low,0,Stable,1.54,115.00,70.00,5,15,393.75,26.78
+608,Alumni,61,Female,High,0,Increasing,23.30,1204.38,625.00,25,50,2937.50,55.81
+609,Alumni,45,Male,Medium,1,Increasing,3.70,2327.33,3619.00,77,154,7161.00,46.01
+610,General Fan,64,Male,High,0,Increasing,4.10,165.03,245.00,7,35,2843.75,42.81
+611,Student,18,Female,Low,0,Increasing,0.88,95.00,55.00,5,5,100.00,17.65
+612,General Fan,23,Female,Medium,0,Stable,20.30,131.63,115.00,5,35,2800.00,48.10
+613,General Fan,61,Non-binary,Medium,1,Decreasing,21.60,3408.60,2280.00,76,76,3344.00,64.04
+614,Student,20,Female,Low,0,Increasing,1.57,300.00,0.00,12,36,585.00,14.72
+615,General Fan,31,Female,High,0,Increasing,6.70,306.48,416.00,13,13,1007.50,24.42
+616,General Fan,19,Female,High,0,Increasing,32.40,45.10,192.00,4,8,340.00,38.82
+617,Student,20,Female,Low,0,Stable,1.81,105.00,50.00,5,15,243.75,42.29
+618,Student,19,Male,Low,0,Increasing,1.35,16.00,50.00,2,4,125.00,67.35
+619,General Fan,37,Male,Medium,0,Stable,22.40,232.05,140.00,7,21,1155.00,51.85
+620,General Fan,43,Male,Medium,1,Decreasing,27.80,2486.25,2325.00,75,225,7312.50,32.58
+621,Student,19,Female,Low,0,Increasing,0.40,104.00,128.00,8,16,460.00,50.76
+622,Student,21,Male,Medium,0,Stable,1.34,29.25,12.00,3,6,187.50,36.50
+623,Alumni,52,Male,Medium,1,Decreasing,15.60,3726.45,3276.00,91,91,3230.50,57.99
+624,Alumni,23,Male,Medium,1,Stable,10.20,2511.60,2632.00,56,112,5152.00,21.92
+625,General Fan,54,Non-binary,Medium,0,Stable,17.30,304.20,240.00,12,12,840.00,39.04
+626,Alumni,30,Male,Medium,1,Increasing,30.80,1126.13,3619.00,77,231,9586.50,60.12
+627,Alumni,50,Female,Medium,0,Increasing,2.00,448.50,500.00,10,60,7125.00,41.00
+628,General Fan,31,Male,Medium,0,Stable,8.40,329.55,0.00,13,52,5525.00,76.98
+629,Student,21,Female,Medium,0,Increasing,1.32,759.53,1025.00,41,123,3382.50,52.44
+630,Student,22,Male,Low,0,Increasing,0.72,0.00,0.00,4,4,80.00,85.56
+631,General Fan,37,Male,Medium,1,Increasing,13.60,3112.20,1596.00,76,76,3420.00,26.36
+632,General Fan,41,Female,Medium,0,Increasing,22.70,278.85,495.00,11,33,1113.75,45.69
+633,Alumni,60,Male,Medium,0,Stable,15.30,585.00,408.00,24,96,9120.00,19.84
+634,Alumni,51,Male,Medium,0,Increasing,18.00,759.53,304.00,19,57,4845.00,15.47
+635,Student,21,Male,Low,0,Decreasing,1.09,35.00,84.00,7,21,393.75,49.38
+636,Alumni,46,Male,Medium,0,Decreasing,17.50,392.93,442.00,13,26,3055.00,47.92
+637,Alumni,56,Male,Medium,0,Decreasing,22.00,397.80,588.00,12,24,1230.00,17.73
+638,Student,18,Male,Low,0,Increasing,0.34,288.00,144.00,12,48,1440.00,28.67
+639,Student,19,Female,Low,0,Stable,1.41,288.00,0.00,9,36,630.00,27.15
+640,Alumni,60,Female,High,0,Increasing,40.40,295.20,684.00,18,36,2385.00,49.33
+641,Student,22,Female,Low,0,Stable,1.15,308.00,280.00,28,84,3045.00,36.21
+642,Alumni,61,Male,Medium,1,Stable,17.30,799.50,3854.00,82,164,5904.00,34.18
+643,Student,19,Non-binary,Low,0,Decreasing,1.60,33.00,0.00,3,6,195.00,66.48
+644,Alumni,37,Male,Medium,0,Decreasing,4.00,315.90,588.00,12,24,900.00,48.26
+645,Student,22,Male,Low,0,Decreasing,1.28,0.00,30.00,6,6,165.00,31.98
+646,General Fan,62,Female,Medium,1,Increasing,7.70,1863.23,2275.00,91,273,13650.00,39.78
+647,Alumni,33,Male,High,0,Stable,20.10,92.25,72.00,3,18,2182.50,42.98
+648,General Fan,59,Male,Medium,1,Stable,7.70,3363.75,2250.00,75,150,5100.00,56.99
+649,General Fan,25,Female,Medium,0,Increasing,11.60,61.43,132.00,3,9,405.00,20.95
+650,Alumni,38,Female,Medium,0,Decreasing,1.00,136.50,616.00,14,28,1085.00,16.85
+651,Student,19,Female,Medium,0,Stable,1.87,0.00,0.00,4,4,120.00,36.50
+652,Alumni,25,Female,High,0,Stable,18.50,79.95,162.00,6,6,480.00,35.57
+653,Alumni,46,Non-binary,High,0,Decreasing,6.30,246.00,240.00,16,96,3720.00,33.65
+654,General Fan,49,Male,Medium,0,Decreasing,25.60,586.95,490.00,14,98,8085.00,40.46
+655,Alumni,55,Male,Medium,1,Increasing,5.50,1632.15,2418.00,62,186,7440.00,37.12
+656,Student,20,Male,Low,0,Stable,1.22,50.00,30.00,5,10,300.00,49.30
+657,Student,21,Male,Low,0,Increasing,2.06,84.00,0.00,4,4,140.00,74.66
+658,Alumni,39,Male,Medium,1,Decreasing,18.90,1637.03,2701.00,73,219,6898.50,17.40
+659,General Fan,64,Non-binary,High,1,Increasing,1.00,1854.23,1675.00,67,67,3283.00,73.12
+660,Alumni,51,Female,Medium,0,Increasing,10.50,136.50,0.00,5,10,1187.50,57.18
+661,Alumni,61,Female,Medium,1,Decreasing,6.50,1681.88,1794.00,69,138,5796.00,56.68
+662,General Fan,43,Male,Medium,0,Stable,23.80,292.50,528.00,12,48,6000.00,36.00
+663,General Fan,60,Female,Medium,0,Increasing,19.60,307.13,360.00,15,105,2625.00,21.27
+664,Student,19,Non-binary,Medium,0,Decreasing,0.60,0.00,40.00,2,2,42.50,65.27
+665,Student,21,Female,Low,0,Increasing,0.25,72.00,57.00,3,9,258.75,51.00
+666,Student,22,Male,Low,0,Increasing,2.21,120.00,30.00,5,5,187.50,40.73
+667,Student,22,Female,Low,0,Decreasing,0.69,42.00,0.00,2,8,180.00,53.68
+668,Student,20,Male,Medium,0,Decreasing,1.65,131.63,0.00,9,36,1215.00,83.42
+669,Student,19,Male,Low,0,Increasing,1.68,0.00,161.00,7,7,210.00,72.52
+670,Student,22,Male,Low,0,Increasing,0.56,0.00,126.00,9,9,135.00,39.93
+671,Student,19,Female,Low,0,Increasing,1.81,0.00,21.00,7,28,595.00,30.53
+672,General Fan,29,Female,Medium,1,Increasing,12.50,2211.30,2376.00,54,108,3456.00,39.87
+673,Student,22,Male,Medium,0,Stable,0.33,298.35,0.00,9,36,1260.00,55.58
+674,Alumni,25,Male,Medium,0,Stable,33.20,0.00,0.00,3,6,375.00,34.62
+675,Alumni,42,Female,High,1,Increasing,5.00,2505.10,1924.00,52,156,6630.00,51.58
+676,General Fan,63,Male,High,0,Decreasing,23.30,416.15,322.00,14,84,9135.00,14.55
+677,Student,20,Male,Low,0,Stable,0.62,0.00,42.00,2,8,110.00,47.96
+678,Alumni,50,Male,Medium,0,Increasing,2.60,156.00,312.00,8,32,2240.00,49.97
+679,General Fan,18,Female,Medium,0,Stable,15.30,195.00,368.00,8,8,620.00,56.47
+680,General Fan,36,Male,Medium,0,Stable,15.20,210.60,405.00,9,27,3273.75,58.25
+681,General Fan,48,Male,Medium,0,Increasing,1.00,877.50,702.00,18,90,4612.50,57.21
+682,Student,18,Male,Low,0,Increasing,1.22,85.00,15.00,5,15,431.25,43.92
+683,Student,20,Non-binary,Low,0,Stable,0.81,1064.00,570.00,38,76,2090.00,30.48
+684,General Fan,22,Female,Medium,0,Decreasing,13.50,0.00,240.00,6,12,735.00,36.84
+685,General Fan,58,Female,Medium,1,Increasing,28.30,2500.88,1824.00,57,114,5529.00,42.01
+686,Alumni,43,Male,High,1,Increasing,17.10,3064.75,1885.00,65,130,6370.00,37.87
+687,Alumni,45,Female,Medium,0,Decreasing,11.40,389.03,456.00,19,76,4655.00,24.02
+688,Student,21,Male,Low,0,Decreasing,1.43,1044.00,252.00,36,144,4140.00,69.67
+689,General Fan,23,Female,Medium,1,Stable,27.90,4118.40,3432.00,88,264,8052.00,66.22
+690,Student,20,Non-binary,Low,0,Stable,0.50,462.00,336.00,14,28,980.00,31.56
+691,Alumni,50,Female,Medium,0,Increasing,10.10,358.80,624.00,16,16,1560.00,57.33
+692,Alumni,58,Female,Medium,0,Decreasing,8.80,565.50,460.00,20,80,8100.00,52.06
+693,Alumni,42,Female,High,1,Decreasing,7.80,1356.08,1008.00,63,126,4158.00,37.51
+694,Student,19,Male,Low,0,Decreasing,1.19,232.00,58.00,29,116,3480.00,56.41
+695,Student,19,Non-binary,Low,0,Increasing,0.81,160.00,30.00,5,10,150.00,35.42
+696,General Fan,30,Male,Medium,1,Stable,9.30,3744.00,2480.00,80,80,2880.00,51.82
+697,Student,19,Female,Low,0,Stable,1.77,420.00,231.00,21,84,2730.00,54.45
+698,Alumni,58,Male,High,0,Decreasing,21.40,243.95,266.00,14,56,4270.00,50.29
+699,Student,20,Male,Medium,0,Decreasing,1.92,20.48,0.00,1,3,112.50,41.76
+700,Alumni,23,Male,High,1,Increasing,11.20,2009.00,2590.00,70,70,2590.00,48.86
+701,Alumni,51,Male,High,1,Decreasing,1.00,2324.70,2916.00,81,162,5670.00,33.11
+702,Student,20,Female,Medium,0,Decreasing,2.02,565.50,58.00,29,29,398.75,49.58
+703,Alumni,63,Female,High,0,Decreasing,1.00,116.85,123.00,3,15,1668.75,53.54
+704,Student,20,Male,Low,0,Stable,0.79,667.00,437.00,23,69,862.50,37.33
+705,Student,22,Male,Low,0,Decreasing,1.65,0.00,0.00,4,4,75.00,32.46
+706,General Fan,36,Female,High,0,Increasing,1.00,249.08,288.00,9,9,765.00,28.99
+707,Alumni,23,Male,Medium,0,Stable,11.40,0.00,0.00,3,15,1368.75,41.02
+708,General Fan,51,Female,Medium,0,Increasing,32.10,514.80,464.00,16,112,6020.00,31.87
+709,Student,22,Female,Low,0,Increasing,0.78,27.00,0.00,3,12,210.00,17.71
+710,General Fan,30,Female,High,0,Increasing,1.00,248.05,517.00,11,22,1485.00,18.20
+711,General Fan,58,Female,Medium,0,Decreasing,1.60,760.50,1000.00,20,20,750.00,17.82
+712,Alumni,40,Male,Medium,0,Stable,11.00,430.95,624.00,13,39,2583.75,45.10
+713,Alumni,36,Female,Medium,1,Decreasing,17.40,1521.00,2400.00,60,180,7110.00,83.85
+714,Alumni,62,Male,Medium,0,Stable,5.60,245.70,480.00,12,60,2625.00,49.60
+715,Alumni,28,Male,High,0,Decreasing,5.70,184.50,333.00,9,63,3622.50,59.48
+716,General Fan,18,Female,High,0,Increasing,30.30,264.45,156.00,6,6,592.50,62.36
+717,General Fan,41,Male,High,0,Stable,16.90,328.00,120.00,8,16,1440.00,53.98
+718,General Fan,24,Female,Medium,1,Increasing,25.50,4078.43,3827.00,89,178,6408.00,62.55
+719,Student,18,Female,Low,0,Increasing,1.31,175.00,0.00,7,28,525.00,57.40
+720,General Fan,38,Female,Medium,0,Decreasing,14.00,119.93,48.00,3,9,495.00,36.28
+721,General Fan,32,Non-binary,Medium,1,Increasing,28.20,2482.35,3283.00,67,201,9045.00,55.81
+722,Student,22,Male,Low,0,Increasing,1.76,1312.00,328.00,41,41,1537.50,35.77
+723,Student,21,Male,Medium,0,Decreasing,1.28,146.25,114.00,6,6,202.50,37.70
+724,General Fan,24,Female,Medium,1,Decreasing,18.90,1272.38,1479.00,87,261,12006.00,22.02
+725,Alumni,32,Male,High,0,Decreasing,4.60,49.20,66.00,2,4,235.00,35.18
+726,General Fan,38,Female,High,0,Stable,14.80,307.50,480.00,12,12,1110.00,31.50
+727,Student,21,Female,Low,0,Decreasing,0.29,0.00,0.00,8,32,1000.00,30.45
+728,General Fan,46,Female,Medium,0,Stable,21.70,0.00,148.00,4,8,500.00,34.39
+729,Student,18,Male,Low,0,Increasing,2.09,210.00,18.00,6,18,225.00,39.30
+730,Student,18,Male,Low,0,Decreasing,0.93,504.00,714.00,42,42,1102.50,39.10
+731,Student,20,Male,Medium,0,Stable,1.54,1425.45,602.00,43,86,1827.50,80.43
+732,General Fan,52,Male,Medium,0,Decreasing,1.00,92.63,80.00,5,15,543.75,54.93
+733,General Fan,61,Female,High,0,Stable,9.90,492.00,630.00,15,30,2925.00,1.43
+734,Alumni,55,Male,High,0,Increasing,11.20,98.40,204.00,6,48,1260.00,55.84
+735,Alumni,43,Male,Medium,0,Increasing,1.00,185.25,240.00,5,40,5000.00,14.06
+736,General Fan,28,Male,Medium,0,Decreasing,25.20,79.95,50.00,2,6,172.50,49.38
+737,Alumni,52,Female,High,0,Increasing,2.40,106.60,288.00,8,48,5340.00,59.18
+738,General Fan,25,Female,Medium,0,Stable,1.30,96.53,0.00,3,24,1530.00,50.20
+739,Alumni,63,Male,High,0,Increasing,15.90,589.38,550.00,25,175,9406.25,43.63
+740,Alumni,31,Male,Medium,1,Stable,24.70,1740.38,4080.00,85,170,5525.00,22.29
+741,Alumni,27,Male,Medium,0,Stable,35.50,0.00,129.00,3,3,146.25,67.48
+742,Alumni,58,Male,Medium,0,Increasing,20.80,561.60,384.00,12,36,1755.00,63.73
+743,General Fan,63,Female,High,0,Increasing,30.80,98.40,272.00,8,24,1290.00,23.97
+744,Alumni,26,Female,Medium,1,Stable,2.90,1390.35,2728.00,62,186,8742.00,57.46
+745,Student,20,Male,Low,0,Stable,0.76,68.00,76.00,4,16,500.00,20.82
+746,General Fan,38,Male,High,0,Decreasing,1.00,426.40,688.00,16,48,4680.00,48.65
+747,Alumni,43,Non-binary,Medium,0,Increasing,10.00,181.35,0.00,6,18,1305.00,55.83
+748,Alumni,25,Female,Medium,1,Decreasing,20.60,2301.00,1416.00,59,118,5782.00,34.85
+749,General Fan,19,Female,Medium,0,Decreasing,1.00,87.75,0.00,5,20,975.00,46.25
+750,General Fan,23,Male,Medium,0,Increasing,5.70,146.25,228.00,6,24,2400.00,45.28
+751,Student,20,Female,Low,0,Stable,2.00,961.00,279.00,31,124,2480.00,62.24
+752,General Fan,46,Male,Medium,1,Increasing,11.90,1170.00,3750.00,75,150,5475.00,72.08
+753,General Fan,43,Female,High,0,Increasing,29.20,353.63,300.00,15,15,918.75,34.52
+754,Alumni,42,Non-binary,High,0,Increasing,15.20,49.20,176.00,4,20,1150.00,16.82
+755,Student,20,Male,Low,0,Increasing,1.60,0.00,176.00,8,8,180.00,42.95
+756,General Fan,22,Male,Medium,0,Increasing,1.00,78.98,129.00,3,9,945.00,29.66
+757,General Fan,51,Male,High,0,Decreasing,19.70,190.65,102.00,6,18,1102.50,62.96
+758,Alumni,54,Male,Medium,0,Increasing,22.90,280.80,592.00,16,32,800.00,47.22
+759,General Fan,32,Male,Medium,0,Increasing,1.00,280.80,444.00,12,36,3960.00,44.95
+760,General Fan,61,Male,High,0,Increasing,14.30,79.95,66.00,2,10,1175.00,51.26
+761,Student,18,Female,Low,0,Stable,0.99,126.00,0.00,21,63,1417.50,44.63
+762,Alumni,32,Female,Medium,1,Decreasing,24.60,819.00,2380.00,70,210,9030.00,81.13
+763,Student,19,Male,Low,0,Decreasing,1.82,160.00,176.00,8,8,170.00,41.55
+764,General Fan,40,Non-binary,Medium,0,Decreasing,6.20,497.25,0.00,15,45,2587.50,43.38
+765,Student,19,Male,Low,0,Stable,0.23,31.00,17.00,1,3,41.25,74.20
+766,Alumni,63,Non-binary,High,0,Increasing,27.80,602.70,588.00,14,42,2677.50,33.22
+767,General Fan,61,Male,High,0,Decreasing,25.40,248.05,550.00,22,110,2887.50,50.28
+768,General Fan,60,Female,Medium,1,Stable,14.80,2118.68,2067.00,53,53,2491.00,23.73
+769,Alumni,62,Female,Medium,1,Decreasing,25.20,1263.60,1377.00,81,162,4941.00,31.04
+770,General Fan,38,Female,Medium,1,Increasing,1.00,3312.08,1817.00,79,158,5451.00,50.67
+771,Student,20,Non-binary,Low,0,Decreasing,1.90,63.00,39.00,3,6,225.00,63.03
+772,General Fan,60,Male,High,0,Increasing,3.80,294.18,203.00,7,7,218.75,60.71
+773,Student,18,Non-binary,Low,0,Decreasing,0.43,0.00,60.00,4,4,115.00,39.53
+774,Alumni,64,Male,Medium,0,Stable,4.40,42.90,78.00,2,2,167.50,39.41
+775,General Fan,32,Male,Medium,0,Increasing,6.50,0.00,0.00,6,12,885.00,37.79
+776,Student,21,Male,Low,0,Stable,2.24,819.00,468.00,39,78,975.00,52.74
+777,Student,22,Female,Low,0,Increasing,2.22,192.00,0.00,8,16,480.00,14.45
+778,General Fan,28,Male,High,0,Stable,10.50,100.45,308.00,7,7,682.50,20.63
+779,General Fan,32,Female,High,0,Decreasing,18.70,107.63,93.00,3,24,1380.00,43.49
+780,General Fan,21,Female,Medium,0,Increasing,20.00,0.00,0.00,7,35,2975.00,39.84
+781,General Fan,38,Female,High,0,Increasing,18.90,61.50,246.00,6,48,4680.00,12.94
+782,Alumni,30,Female,Medium,0,Stable,11.00,458.25,200.00,10,20,725.00,45.91
+783,Student,22,Male,Medium,0,Increasing,0.49,0.00,189.00,9,36,1305.00,51.16
+784,Alumni,36,Male,High,0,Increasing,29.10,385.40,176.00,8,40,2000.00,20.42
+785,Student,20,Male,Low,0,Increasing,1.23,168.00,0.00,8,16,560.00,28.62
+786,General Fan,31,Male,Medium,1,Decreasing,6.60,2965.95,1560.00,78,156,5928.00,53.09
+787,Alumni,23,Male,High,0,Decreasing,15.30,265.48,252.00,7,56,3780.00,44.37
+788,Alumni,63,Male,High,1,Increasing,4.40,2265.25,2550.00,85,255,12622.50,60.93
+789,Alumni,44,Male,High,0,Increasing,1.00,184.50,180.00,10,30,3337.50,58.24
+790,General Fan,46,Non-binary,Medium,1,Increasing,25.90,1677.00,1548.00,86,86,3870.00,71.70
+791,Student,20,Female,Medium,0,Increasing,0.75,0.00,42.00,2,4,110.00,26.58
+792,Alumni,45,Male,High,0,Decreasing,11.00,79.95,147.00,3,3,123.75,38.81
+793,Alumni,52,Female,Medium,0,Stable,22.60,537.23,608.00,19,133,7813.75,34.02
+794,General Fan,25,Male,High,0,Increasing,17.70,174.25,75.00,5,25,1687.50,42.85
+795,Student,20,Male,Medium,0,Increasing,1.48,836.55,858.00,39,117,3363.75,10.24
+796,General Fan,59,Female,Medium,0,Increasing,4.00,78.00,0.00,5,5,456.25,39.37
+797,General Fan,53,Female,Medium,0,Stable,18.40,351.98,817.00,19,133,12967.50,18.00
+798,Alumni,47,Male,Medium,1,Stable,5.10,2129.40,1932.00,84,168,8148.00,30.05
+799,General Fan,35,Non-binary,Medium,0,Stable,17.70,76.05,96.00,2,2,140.00,53.84
+800,General Fan,19,Female,High,1,Increasing,16.40,1605.15,972.00,54,162,5670.00,43.82
+801,General Fan,30,Female,Medium,0,Increasing,16.50,315.90,456.00,12,72,6120.00,42.20
+802,Student,22,Female,Low,0,Increasing,0.27,0.00,200.00,8,32,480.00,82.37
+803,Alumni,43,Female,High,1,Increasing,15.40,1382.73,2059.00,71,142,4402.00,48.02
+804,General Fan,42,Male,High,0,Decreasing,18.60,202.95,288.00,6,12,540.00,52.76
+805,Alumni,47,Male,Medium,0,Stable,12.20,907.73,323.00,19,38,4227.50,38.77
+806,General Fan,28,Male,Medium,0,Stable,17.60,0.00,110.00,5,15,1293.75,26.89
+807,General Fan,24,Female,High,0,Stable,7.30,461.25,490.00,10,40,3350.00,50.16
+808,General Fan,48,Female,Medium,0,Increasing,11.10,68.25,259.00,7,7,271.25,50.97
+809,Alumni,61,Male,High,0,Decreasing,38.90,542.23,1081.00,23,46,4427.50,57.77
+810,Student,19,Non-binary,Low,0,Increasing,0.27,87.00,48.00,3,3,112.50,49.83
+811,General Fan,56,Non-binary,High,0,Increasing,14.20,311.60,672.00,16,80,5600.00,72.54
+812,General Fan,30,Female,Medium,0,Stable,10.40,203.78,396.00,11,66,3052.50,40.55
+813,Student,20,Female,Low,0,Increasing,1.98,364.00,65.00,13,52,650.00,38.71
+814,General Fan,24,Female,High,0,Decreasing,19.20,49.20,132.00,3,3,165.00,44.59
+815,General Fan,59,Male,Medium,0,Increasing,15.40,544.05,486.00,18,90,3600.00,25.65
+816,Alumni,59,Female,High,0,Decreasing,24.10,428.45,950.00,19,57,4987.50,45.79
+817,Alumni,53,Male,Medium,1,Stable,23.10,2839.20,3822.00,91,273,8736.00,28.22
+818,Alumni,37,Female,High,1,Increasing,24.00,1510.85,2948.00,67,134,5762.00,21.61
+819,Student,19,Male,Low,0,Stable,0.60,35.00,0.00,7,28,840.00,51.07
+820,Alumni,24,Female,Medium,0,Increasing,21.40,0.00,0.00,5,5,175.00,25.44
+821,General Fan,18,Non-binary,Medium,1,Decreasing,21.70,2106.00,2340.00,90,90,3510.00,38.42
+822,Student,21,Male,Medium,0,Stable,1.75,518.70,798.00,38,38,1425.00,39.61
+823,Alumni,62,Female,Medium,0,Decreasing,11.80,0.00,300.00,6,6,405.00,59.62
+824,Alumni,59,Non-binary,High,1,Stable,1.00,999.38,1105.00,65,195,8287.50,63.24
+825,Alumni,64,Female,Medium,0,Increasing,21.70,73.13,0.00,3,21,1942.50,52.89
+826,General Fan,30,Female,High,0,Decreasing,21.70,123.00,384.00,12,12,1215.00,54.60
+827,Alumni,39,Female,Medium,1,Decreasing,29.30,1948.05,2738.00,74,222,6882.00,58.72
+828,Alumni,38,Male,High,1,Stable,12.70,1750.70,1647.00,61,61,2745.00,23.45
+829,General Fan,39,Male,Medium,0,Increasing,19.50,557.70,299.00,13,52,3900.00,37.51
+830,Alumni,45,Male,High,1,Stable,24.90,1742.50,800.00,50,100,4950.00,55.44
+831,Student,18,Female,Low,0,Decreasing,0.67,660.00,33.00,33,33,1031.25,18.04
+832,Alumni,43,Male,Medium,1,Increasing,5.90,2176.20,1872.00,72,72,2628.00,66.33
+833,Student,21,Female,Medium,0,Decreasing,1.15,332.48,99.00,11,22,412.50,70.92
+834,Student,19,Female,Low,0,Increasing,2.11,126.00,288.00,18,54,1552.50,18.94
+835,Alumni,27,Female,High,0,Decreasing,6.30,116.85,144.00,6,6,157.50,28.61
+836,Alumni,41,Female,Medium,0,Stable,8.20,0.00,72.00,2,12,1485.00,17.60
+837,General Fan,59,Non-binary,Medium,0,Decreasing,23.80,819.00,912.00,24,24,690.00,38.39
+838,Alumni,25,Male,High,0,Decreasing,14.00,133.25,135.00,5,15,1500.00,29.79
+839,Alumni,41,Female,High,1,Decreasing,18.10,3790.45,3268.00,86,86,2752.00,60.83
+840,General Fan,33,Female,High,1,Increasing,9.50,2781.85,1180.00,59,59,2389.50,43.15
+841,Student,22,Female,Low,0,Increasing,1.69,0.00,60.00,6,12,450.00,28.26
+842,General Fan,44,Non-binary,Medium,0,Decreasing,17.90,447.53,357.00,17,136,14790.00,59.34
+843,Student,22,Male,Low,0,Increasing,2.14,0.00,14.00,7,28,1015.00,51.35
+844,General Fan,21,Male,Medium,0,Increasing,22.80,0.00,196.00,4,12,1035.00,66.78
+845,Student,18,Female,Low,0,Decreasing,0.32,684.00,532.00,38,38,617.50,39.98
+846,Alumni,36,Male,Medium,0,Increasing,8.10,0.00,240.00,8,24,630.00,58.35
+847,Student,22,Female,Low,0,Increasing,1.59,448.00,288.00,32,128,2080.00,59.15
+848,General Fan,56,Female,High,0,Decreasing,4.20,86.10,164.00,4,20,700.00,51.72
+849,Alumni,27,Male,Medium,0,Increasing,35.70,114.08,57.00,3,6,690.00,70.24
+850,Alumni,42,Female,Medium,0,Stable,7.10,549.90,252.00,12,36,2880.00,53.43
+851,Student,18,Male,Medium,0,Stable,0.68,25.35,36.00,2,6,120.00,39.61
+852,General Fan,36,Female,Medium,1,Stable,4.10,2718.30,1564.00,68,136,5440.00,47.46
+853,Student,19,Female,Medium,0,Increasing,1.59,245.70,720.00,36,72,2430.00,38.54
+854,General Fan,27,Non-binary,High,0,Stable,30.50,67.65,72.00,3,21,525.00,21.81
+855,Student,20,Male,Low,0,Stable,0.82,246.00,82.00,41,164,2460.00,54.54
+856,Student,21,Female,Medium,0,Stable,1.55,165.75,125.00,5,10,362.50,50.35
+857,Student,19,Female,Low,0,Increasing,1.89,120.00,0.00,8,24,780.00,55.36
+858,Alumni,52,Female,Medium,0,Decreasing,24.80,292.50,660.00,15,45,4556.25,47.20
+859,Alumni,61,Female,Medium,0,Stable,19.00,39.98,0.00,1,3,287.50,38.87
+860,Student,19,Male,Low,0,Decreasing,1.20,185.00,740.00,37,111,1665.00,22.09
+861,General Fan,50,Male,Medium,0,Decreasing,1.00,165.75,714.00,17,51,2868.75,24.67
+862,Alumni,38,Male,Medium,1,Decreasing,10.30,622.05,1102.00,58,174,8352.00,31.52
+863,Alumni,34,Female,High,0,Decreasing,27.00,717.50,350.00,14,28,1610.00,70.89
+864,Alumni,39,Male,High,0,Increasing,11.60,47.15,26.00,1,4,288.75,58.08
+865,Alumni,54,Male,Medium,1,Decreasing,16.40,2115.75,2976.00,62,186,5859.00,67.13
+866,Alumni,32,Non-binary,Medium,0,Increasing,1.00,253.50,585.00,13,65,4550.00,53.77
+867,Student,20,Male,Low,0,Decreasing,1.25,195.00,0.00,15,45,1293.75,54.09
+868,Student,18,Non-binary,Low,0,Increasing,0.99,45.00,35.00,5,15,487.50,54.32
+869,General Fan,24,Female,High,0,Decreasing,2.20,49.20,76.00,4,20,1725.00,3.40
+870,General Fan,49,Female,High,0,Increasing,22.20,292.13,399.00,19,57,2422.50,48.75
+871,Alumni,28,Male,Medium,0,Decreasing,16.80,0.00,0.00,5,10,775.00,30.79
+872,Student,19,Male,Low,0,Stable,2.24,0.00,112.00,7,21,735.00,46.10
+873,General Fan,26,Female,Medium,1,Increasing,12.20,1638.00,1680.00,80,80,2760.00,61.86
+874,Alumni,31,Female,High,1,Increasing,10.10,2333.93,3105.00,69,69,2380.50,57.08
+875,Student,21,Female,Low,0,Increasing,0.40,72.00,0.00,9,27,843.75,36.35
+876,Student,21,Male,Low,0,Stable,1.19,77.00,22.00,11,33,495.00,49.50
+877,General Fan,19,Female,High,0,Decreasing,10.70,270.60,138.00,6,42,3097.50,34.03
+878,General Fan,52,Female,Medium,0,Decreasing,33.10,477.75,260.00,10,60,5625.00,61.01
+879,Student,21,Female,Low,0,Increasing,1.01,112.00,20.00,4,4,65.00,57.55
+880,Student,19,Female,Medium,0,Decreasing,1.99,450.45,165.00,33,33,825.00,25.98
+881,Student,19,Female,Low,0,Stable,1.86,90.00,48.00,3,12,180.00,27.13
+882,General Fan,20,Female,Medium,0,Stable,21.20,149.18,234.00,9,9,247.50,41.43
+883,Student,20,Male,Low,0,Decreasing,2.14,14.00,44.00,2,2,70.00,43.49
+884,Student,22,Female,Low,0,Increasing,1.79,60.00,72.00,3,6,120.00,35.94
+885,General Fan,58,Male,High,0,Increasing,13.80,871.25,612.00,17,34,3867.50,32.24
+886,Student,19,Male,Low,0,Increasing,0.85,432.00,324.00,36,144,4500.00,32.57
+887,General Fan,56,Male,Medium,1,Increasing,15.90,3744.00,3440.00,80,240,8160.00,76.45
+888,Student,20,Male,Low,0,Increasing,0.27,330.00,0.00,15,15,562.50,28.19
+889,Student,18,Male,Low,0,Increasing,1.24,44.00,20.00,4,4,90.00,30.50
+890,Student,20,Male,Low,0,Increasing,2.10,105.00,126.00,7,7,166.25,49.79
+891,General Fan,21,Female,High,0,Stable,9.00,138.38,288.00,9,18,1507.50,59.38
+892,General Fan,43,Non-binary,Medium,0,Decreasing,1.00,0.00,184.00,4,28,875.00,46.90
+893,General Fan,55,Male,Medium,0,Stable,1.00,354.90,644.00,14,70,7087.50,40.25
+894,Alumni,59,Non-binary,Medium,1,Stable,14.00,2053.35,2496.00,78,234,8073.00,43.87
+895,General Fan,49,Female,High,1,Increasing,30.70,861.00,4200.00,84,168,6972.00,51.54
+896,Student,19,Male,Low,0,Stable,0.87,465.00,124.00,31,31,736.25,32.98
+897,Student,19,Male,Low,0,Increasing,2.14,238.00,98.00,7,28,1050.00,18.08
+898,General Fan,63,Female,Medium,0,Decreasing,20.10,0.00,217.00,7,56,2170.00,19.81
+899,Student,20,Female,Medium,0,Increasing,1.59,190.13,507.00,39,78,1852.50,47.19
+900,Student,21,Female,Low,0,Stable,0.50,87.00,54.00,3,9,326.25,55.33
+901,Student,22,Male,Low,0,Increasing,1.77,315.00,0.00,9,9,213.75,0.93
+902,Student,18,Male,Low,0,Increasing,1.18,0.00,0.00,6,12,150.00,34.49
+903,Student,20,Male,Medium,0,Stable,0.62,56.55,32.00,2,2,47.50,25.72
+904,Alumni,37,Male,High,0,Increasing,13.50,180.40,128.00,8,48,2100.00,32.54
+905,Alumni,26,Male,High,0,Decreasing,11.30,124.03,517.00,11,22,1320.00,38.54
+906,General Fan,25,Male,Medium,0,Stable,10.40,0.00,0.00,7,7,717.50,47.83
+907,General Fan,50,Female,Medium,0,Stable,18.10,180.38,230.00,5,25,1406.25,11.72
+908,Alumni,23,Non-binary,High,0,Stable,8.20,252.15,240.00,6,6,405.00,53.49
+909,Student,21,Male,Medium,0,Stable,0.47,1190.48,851.00,37,111,2775.00,8.47
+910,Alumni,56,Non-binary,High,1,Increasing,16.40,3280.00,2640.00,80,240,8520.00,58.90
+911,Alumni,27,Male,High,0,Stable,36.00,86.10,124.00,4,20,1400.00,12.86
+912,Student,20,Female,Low,0,Decreasing,0.33,574.00,492.00,41,164,4510.00,31.08
+913,General Fan,19,Male,Medium,1,Decreasing,15.30,2486.25,1326.00,51,51,1887.00,28.47
+914,Alumni,23,Female,Medium,0,Increasing,19.30,0.00,258.00,6,18,1822.50,18.08
+915,Alumni,61,Non-binary,Medium,0,Decreasing,12.40,0.00,186.00,6,18,562.50,62.66
+916,Alumni,44,Female,Medium,0,Stable,1.60,780.00,352.00,16,112,8820.00,33.08
+917,Student,22,Male,Low,0,Stable,0.56,24.00,21.00,3,3,82.50,52.95
+918,General Fan,38,Female,High,1,Decreasing,18.40,3824.28,3458.00,91,182,8736.00,54.36
+919,General Fan,25,Male,Medium,0,Increasing,2.30,0.00,276.00,6,36,3015.00,71.22
+920,Student,18,Female,Low,0,Increasing,1.20,63.00,9.00,3,9,146.25,19.68
+921,General Fan,25,Female,Medium,1,Stable,12.00,1901.25,3510.00,78,234,11466.00,99.90
+922,Alumni,56,Male,High,1,Stable,14.60,2501.00,1708.00,61,61,2196.00,43.91
+923,General Fan,61,Female,Medium,1,Decreasing,15.00,2459.93,4089.00,87,87,3654.00,23.65
+924,General Fan,20,Female,Medium,0,Increasing,30.70,0.00,287.00,7,14,857.50,40.49
+925,Alumni,39,Male,Medium,0,Decreasing,5.30,156.00,256.00,16,128,8320.00,34.08
+926,Student,19,Female,Medium,0,Decreasing,1.07,211.58,0.00,7,7,210.00,20.47
+927,Student,22,Male,Low,0,Stable,2.07,1102.00,190.00,38,76,1235.00,36.03
+928,Alumni,40,Female,High,1,Decreasing,5.80,1694.33,2565.00,57,171,8122.50,43.13
+929,General Fan,61,Female,Medium,1,Increasing,8.30,2448.23,1953.00,93,93,3534.00,74.55
+930,Student,18,Female,Low,0,Decreasing,1.62,0.00,2.00,1,1,37.50,29.26
+931,Student,19,Female,Low,0,Increasing,1.10,99.00,165.00,11,33,660.00,48.80
+932,General Fan,34,Female,Medium,0,Stable,17.60,119.93,0.00,3,15,1837.50,58.45
+933,General Fan,52,Male,High,0,Increasing,6.20,530.95,364.00,14,84,3150.00,61.96
+934,Alumni,51,Female,Medium,1,Decreasing,18.00,3726.45,3666.00,78,78,3081.00,49.82
+935,Student,20,Male,Medium,0,Increasing,1.82,181.35,217.00,31,124,1705.00,27.27
+936,Student,22,Female,Medium,0,Decreasing,1.02,23.40,12.00,4,12,450.00,43.39
+937,Student,20,Male,Low,0,Decreasing,1.76,184.00,184.00,8,8,120.00,29.09
+938,General Fan,39,Male,Medium,0,Stable,7.90,468.00,410.00,10,80,3800.00,59.50
+939,Student,21,Female,Low,0,Increasing,1.63,30.00,3.00,1,3,90.00,19.92
+940,Alumni,53,Male,High,1,Increasing,15.80,2767.50,1575.00,75,75,2475.00,96.89
+941,Student,18,Female,Low,0,Increasing,1.60,40.00,72.00,8,8,130.00,68.37
+942,Alumni,30,Male,Medium,0,Decreasing,4.70,0.00,174.00,6,6,397.50,23.08
+943,General Fan,46,Male,High,1,Increasing,13.50,1791.70,1672.00,76,228,10260.00,66.61
+944,General Fan,48,Female,Medium,0,Decreasing,8.60,146.25,0.00,6,48,3600.00,18.54
+945,Student,19,Male,Low,0,Stable,1.28,72.00,176.00,8,16,360.00,53.14
+946,Student,20,Male,Medium,0,Stable,1.20,126.75,100.00,5,10,250.00,24.97
+947,Student,18,Female,Medium,0,Decreasing,1.46,93.60,8.00,8,16,280.00,49.34
+948,General Fan,47,Male,High,0,Decreasing,11.40,57.40,86.00,2,2,155.00,18.54
+949,General Fan,33,Female,High,0,Increasing,24.70,132.23,150.00,3,3,277.50,24.06
+950,Alumni,29,Male,Medium,0,Decreasing,28.60,25.35,20.00,1,5,103.75,33.26
+951,General Fan,34,Male,Medium,0,Stable,19.90,573.30,456.00,12,24,2250.00,47.34
+952,General Fan,33,Female,Medium,0,Increasing,13.60,351.00,450.00,10,30,1950.00,64.60
+953,Student,20,Male,Low,0,Decreasing,1.00,21.00,0.00,3,9,292.50,50.97
+954,General Fan,25,Male,High,0,Stable,20.50,96.35,40.00,2,8,510.00,38.86
+955,Alumni,37,Male,Medium,0,Stable,17.30,321.75,420.00,10,50,2250.00,41.61
+956,Alumni,23,Male,High,0,Increasing,1.00,297.25,460.00,10,30,2625.00,63.35
+957,Alumni,33,Female,Medium,0,Decreasing,20.70,479.70,588.00,12,24,990.00,60.85
+958,Student,22,Male,Low,0,Increasing,0.61,0.00,154.00,7,7,122.50,41.04
+959,Student,19,Female,Medium,0,Increasing,0.49,21.45,6.00,1,3,71.25,17.16
+960,General Fan,40,Female,Medium,1,Stable,1.00,1370.85,2812.00,74,222,9546.00,85.87
+961,Student,22,Male,Low,0,Stable,1.06,24.00,0.00,3,9,337.50,38.08
+962,General Fan,57,Non-binary,Medium,1,Stable,4.80,1453.73,2343.00,71,142,4970.00,49.94
+963,Student,21,Male,Low,0,Increasing,2.04,36.00,100.00,4,4,120.00,22.37
+964,Alumni,37,Non-binary,Medium,1,Stable,11.40,2780.70,1380.00,92,92,3634.00,56.73
+965,Student,18,Male,Medium,0,Decreasing,1.83,0.00,175.00,7,21,708.75,31.08
+966,Alumni,61,Female,Medium,1,Increasing,13.50,1965.60,2457.00,63,63,2803.50,38.30
+967,General Fan,18,Female,Medium,1,Decreasing,8.70,2053.35,1701.00,81,162,6723.00,82.16
+968,Student,19,Male,Medium,0,Increasing,1.56,481.65,380.00,38,114,3705.00,32.69
+969,Alumni,38,Female,Medium,0,Stable,20.20,131.63,120.00,5,35,3368.75,42.38
+970,Alumni,37,Female,Medium,0,Decreasing,10.00,63.38,130.00,5,35,3237.50,56.05
+971,General Fan,23,Male,High,0,Increasing,14.40,184.50,225.00,9,9,371.25,26.68
+972,General Fan,39,Male,Medium,0,Increasing,29.10,351.00,255.00,15,15,543.75,34.14
+973,General Fan,35,Female,Medium,0,Increasing,24.60,41.93,0.00,1,3,60.00,50.65
+974,Student,18,Female,Medium,0,Increasing,0.75,0.00,20.00,5,10,375.00,67.70
+975,Student,18,Non-binary,Low,0,Decreasing,1.71,0.00,0.00,4,4,110.00,58.74
+976,Student,20,Female,Low,0,Stable,0.65,666.00,703.00,37,111,2636.25,46.35
+977,Alumni,50,Non-binary,Medium,1,Increasing,10.60,1898.33,2419.00,59,177,8496.00,69.17
+978,Student,18,Female,Low,0,Increasing,1.69,56.00,0.00,7,21,367.50,30.65
+979,Alumni,29,Male,Medium,0,Decreasing,15.30,105.30,192.00,4,8,540.00,56.60
+980,Alumni,55,Male,Medium,0,Stable,22.40,214.50,820.00,20,40,3200.00,17.49
+981,Alumni,51,Female,High,0,Increasing,24.00,199.88,221.00,13,39,2925.00,41.89
+982,General Fan,31,Female,Medium,0,Increasing,11.70,167.70,124.00,4,24,900.00,29.64
+983,Student,22,Male,Low,0,Decreasing,0.26,195.00,247.00,13,13,373.75,59.13
+984,Student,18,Male,Medium,0,Increasing,0.45,390.00,256.00,16,16,480.00,66.63
+985,General Fan,40,Non-binary,High,1,Increasing,9.80,803.60,1848.00,56,56,2688.00,57.94
+986,Alumni,62,Female,Medium,0,Stable,2.50,436.80,658.00,14,112,4200.00,33.49
+987,General Fan,19,Male,Medium,0,Decreasing,26.40,0.00,84.00,3,6,667.50,40.74
+988,Alumni,58,Female,High,0,Decreasing,3.20,287.00,308.00,7,28,3150.00,50.86
+989,Student,21,Male,Low,0,Stable,1.90,0.00,7.00,1,1,30.00,51.80
+990,General Fan,19,Male,High,1,Decreasing,1.00,2181.20,1288.00,56,56,2128.00,60.18
+991,General Fan,44,Male,High,0,Increasing,21.60,546.33,429.00,13,78,8092.50,32.43
+992,General Fan,26,Male,Medium,0,Increasing,13.60,482.63,0.00,11,22,632.50,36.38
+993,Student,19,Female,Low,0,Increasing,2.24,189.00,21.00,7,14,367.50,22.90
+994,Alumni,28,Male,Medium,0,Increasing,3.70,93.60,0.00,8,48,4380.00,10.56
+995,Alumni,44,Female,Medium,0,Decreasing,9.40,62.40,104.00,4,12,1125.00,34.05
+996,Student,18,Female,Medium,0,Stable,0.73,650.33,0.00,23,69,1897.50,52.90
+997,General Fan,43,Male,Medium,0,Stable,13.50,0.00,180.00,5,10,937.50,27.96
+998,Student,22,Female,Low,0,Decreasing,0.46,476.00,252.00,14,28,490.00,69.60
+999,General Fan,35,Female,Medium,1,Increasing,11.70,1170.00,3375.00,75,225,8437.50,29.50
+1000,Alumni,23,Female,Medium,1,Increasing,11.60,2242.50,1650.00,50,150,5100.00,30.31

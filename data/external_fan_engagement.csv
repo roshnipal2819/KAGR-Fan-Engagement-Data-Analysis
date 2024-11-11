@@ -1,0 +1,296 @@
+﻿Overall Rank,City,Total Score,NBA Rank,NCAA Rank
+1,"Los Angeles, CA",62.63,1,1
+2,"Boston, MA",57.22,2,14
+3,"San Francisco, CA",48.03,3,114
+4,"Salt Lake City, UT",46.13,4,67
+5,"Miami, FL",45.27,5,74
+6,"Philadelphia, PA",43.87,20,4
+7,"Washington, DC",42.28,9,21
+8,"Milwaukee, WI",40.95,6,136
+9,"New York, NY",40.89,18,11
+10,"San Antonio, TX",40.16,7,180
+11,"Atlanta, GA",39.33,8,199
+12,"Chicago, IL",39.1,14,57
+13,"Cleveland, OH",37.75,10,183
+14,"New Orleans, LA",37.72,15,95
+15,"Dallas, TX",37.06,16,141
+16,"Portland, OR",36.6,12,225
+17,"Denver, CO",36.15,11,270
+18,"Orlando, FL",35.78,19,169
+19,"Memphis, TN",35.65,22,126
+20,"Oklahoma City, OK",35.5,13,295
+21,"Sacramento, CA",34.69,17,265
+22,"Detroit, MI",34.62,21,221
+23,"Houston, TX",34.19,27,24
+24,"Charlotte, NC",33.36,24,133
+25,"Minneapolis, MN",33.27,23,275
+26,"Phoenix, AZ",32.37,26,121
+27,"Indianapolis, IN",31.3,25,243
+28,"Storrs, CT",31.17,28,2
+29,"Durham, NC",30.37,28,3
+30,"Lawrence, KS",28.32,28,5
+31,"East Lansing, MI",27.66,28,6
+32,"Lexington, KY",26.67,28,7
+33,"Chapel Hill, NC",25.39,28,8
+34,"Loretto, PA",24.09,28,9
+35,"Lewiston, NY",23.28,28,10
+36,"Fayette, MS",23.07,28,12
+37,"College Park, MD",22.69,28,13
+38,"Kingston, RI",22.52,28,15
+39,"Charlottesville, VA",22.29,28,16
+40,"Hamilton, NY",22.22,28,17
+41,"Fayetteville, AR",22.15,28,18
+42,"Morgantown, WV",22.05,28,19
+43,"Grambling, LA",21.96,28,20
+44,"West Point, NY",21.92,28,22
+45,"Ann Arbor, MI",21.53,28,23
+46,"West Lafayette, IN",21.31,28,25
+47,"Bloomington, IN",21.14,28,26
+48,"Murray, KY",20.88,28,27
+49,"Itta Bena, MS",20.43,28,28
+50,"Iowa City, IA",20.13,28,29
+51,"Clemson, SC",20.11,28,30
+52,"Norman, OK",20.1,28,31
+53,"Buies Creek, NC",19.76,28,32
+54,"Princeton, NJ",19.75,28,33
+55,"Cincinnati, OH",19.55,28,34
+56,"Stillwater, OK",19.52,28,35
+57,"Syracuse, NY",19.48,28,36
+58,"Athens, OH",19.46,28,37
+59,"Emmitsburg, MD",19.44,28,38
+60,"Morehead, KY",19.4,28,39
+61,"Nashville, TN",19.36,28,40
+62,"Starkville, MS",19.23,28,41
+63,"Jacksonville, AL",19.01,28,42
+64,"Princess Anne, MD",18.97,28,43
+65,"Louisville, KY",18.96,28,44
+66,"Boiling Springs, NC",18.86,28,45
+67,"Tulsa, OK",18.76,28,46
+68,"Providence, RI",18.73,28,47
+69,"Troy, AL",18.69,28,48
+70,"Baltimore, MD",18.52,28,49
+71,"Kent, OH",18.46,28,50
+72,"Dayton, OH",18.44,28,51
+73,"Olean, NY",18.15,28,52
+74,"Waco, TX",18.07,28,53
+75,"Toledo, OH",17.98,28,54
+76,"Farmville, VA",17.95,28,55
+77,"Nacogdoches, TX",17.89,28,56
+78,"South Bend, IN",17.83,28,58
+79,"Carbondale, IL",17.8,28,59
+80,"Highland Heights, KY",17.73,28,60
+81,"Spartanburg, SC",17.61,28,61
+82,"Eugene, OR",17.49,28,62
+83,"Pullman, WA",17.47,28,63
+84,"Provo, UT",17.43,28,64
+85,"Prairie View, TX",17.41,28,65
+86,"Cullowhee, NC",17.41,28,66
+87,"Norfolk, VA",17.36,28,68
+88,"Annapolis, MD",17.31,28,69
+89,"Akron, OH",17.26,28,70
+90,"Ames, IA",17.13,28,71
+91,"San Diego, CA",17.11,28,72
+92,"Ithaca, NY",17.08,28,73
+93,"Lafayette, LA",16.94,28,75
+94,"Omaha, NE",16.94,28,76
+95,"Cheney, WA",16.85,28,78
+96,"Ruston, LA",16.83,28,79
+97,"Huntsville, TX",16.72,28,80
+98,"Long Beach, CA",16.66,28,81
+99,"Lynchburg, VA",16.65,28,82
+100,"Stanford, CA",16.61,28,83
+101,"Baton Rouge, LA",16.61,28,84
+102,"Bowling Green, KY",16.57,28,85
+103,"New Rochelle, NY",16.49,28,86
+104,"Burlington, VT",16.45,28,87
+105,"Brookings, SD",16.42,28,88
+106,"Pittsburgh, PA",16.41,28,89
+107,"Thibodaux, LA",16.38,28,90
+108,"Seattle, WA",16.36,28,91
+109,"Richmond, KY",16.35,28,92
+110,"Davidson, NC",16.34,28,93
+111,"Champaign, IL",16.32,28,94
+112,"Rock Hill, SC",16.27,28,96
+113,"Tallahassee, FL",16.26,28,97
+114,"New Haven, CT",16.22,28,98
+115,"Ogden, UT",16.19,28,99
+116,"Conway, SC",16.17,28,100
+117,"Boise, ID",16.17,28,101
+118,"Knoxville, TN",16.13,28,102
+119,"Hempstead, NY",15.99,28,103
+120,"Lexington, VA",15.91,28,104
+121,"Mobile, AL",15.86,28,105
+122,"Tuscaloosa, AL",15.86,28,106
+123,"Boone, NC",15.85,28,107
+124,"College Station, TX",15.85,28,108
+125,"Albany, NY",15.82,28,109
+126,"Moraga, CA",15.82,28,110
+127,"Santa Barbara, CA",15.79,28,111
+128,"Lewisburg, PA",15.79,28,112
+129,"Radford, VA",15.74,28,113
+130,"Spokane, WA",15.71,28,77
+131,"Hanover, NH",15.71,28,115
+132,"Davis, CA",15.7,28,116
+133,"Greenville, SC",15.69,28,117
+134,"Huntington, WV",15.69,28,118
+135,"Charleston, SC",15.68,28,119
+136,"Hammond, LA",15.68,28,120
+137,"Raleigh, NC",15.62,28,122
+138,"Durham, NH",15.59,28,123
+139,"Columbia, SC",15.58,28,124
+140,"Boulder, CO",15.58,28,125
+141,"Cedar City, UT",15.5,28,127
+142,"Columbus, OH",15.5,28,128
+143,"St. Louis, MO",15.5,28,129
+144,"San Marcos, TX",15.49,28,130
+145,"Denton, TX",15.44,28,131
+146,"Des Moines, IA",15.42,28,132
+147,"Birmingham, AL",15.36,28,134
+148,"Greensboro, NC",15.31,28,135
+149,"Manhattan, KS",15.26,28,137
+150,"Lowell, MA",15.25,28,138
+151,"Harrisonburg, VA",15.21,28,139
+152,"Cedar Falls, IA",15.2,28,140
+153,"Riverside, CA",15.16,28,142
+154,"Tempe, AZ",15.11,28,143
+155,"Laramie, WY",15.09,28,144
+156,"Corvallis, OR",15.02,28,145
+157,"Jacksonville, FL",15.02,28,146
+158,"Fullerton, CA",15,28,147
+159,"Fort Collins, CO",14.94,28,148
+160,"Abilene, TX",14.94,28,149
+161,"Fairfield, CT",14.89,28,150
+162,"Fargo, ND",14.88,28,151
+163,"Irvine, CA",14.87,28,152
+164,"Peoria, IL",14.86,28,153
+165,"North Andover, MA",14.85,28,154
+166,"Blacksburg, VA",14.85,28,155
+167,"Fort Wayne, IN",14.78,28,156
+168,"Springfield, MO",14.77,28,157
+169,"Terre Haute, IN",14.74,28,158
+170,"Long Branch, NJ",14.67,28,159
+171,"Tucson, AZ",14.66,28,160
+172,"Buffalo, NY",14.65,28,161
+172,"Bethlehem, PA",14.65,28,161
+174,"Richmond, VA",14.64,28,163
+175,"Bozeman, MT",14.62,28,164
+176,"Santa Clara, CA",14.62,28,165
+177,"Trenton, NJ",14.54,28,166
+178,"Jackson, MS",14.54,28,167
+179,"Muncie, IN",14.52,28,168
+180,"Bakersfield, CA",14.45,28,170
+181,"Newark, DE",14.39,28,171
+182,"Chattanooga, TN",14.37,28,172
+183,"Gainesville, FL",14.35,28,173
+184,"Easton, PA",14.35,28,174
+185,"DeLand, FL",14.31,28,175
+186,"Mount Pleasant, MI",14.29,28,176
+187,"Williamsburg, VA",14.28,28,177
+188,"Madison, WI",14.28,28,178
+189,"St. Charles, MO",14.26,28,179
+190,"Ypsilanti, MI",14.09,28,181
+191,"Monroe, LA",14.08,28,182
+192,"Lubbock, TX",14.03,28,184
+193,"Stephenville, TX",14.02,28,185
+194,"Rochester Hills, MI",14.02,28,186
+195,"Poughkeepsie, NY",14.01,28,187
+196,"Vermillion, SD",14.01,28,188
+197,"Oxford, OH",13.98,28,189
+198,"Asheville, NC",13.95,28,190
+199,"Hattiesburg, MS",13.95,28,191
+200,"Newark, NJ",13.95,28,192
+201,"Statesboro, GA",13.92,28,193
+202,"Towson, MD",13.9,28,194
+203,"Orem, UT",13.9,28,195
+204,"Winston-Salem, NC",13.89,28,196
+205,"Murfreesboro, TN",13.88,28,197
+206,"State College, PA",13.85,28,198
+207,"Cape Girardeau, MO",13.82,28,200
+208,"Youngstown, OH",13.82,28,201
+209,"Florence, AL",13.81,28,202
+210,"Missoula, MT",13.8,28,203
+211,"Orono, ME",13.78,28,204
+212,"Macomb, IL",13.76,28,205
+213,"Stony Brook, NY",13.74,28,206
+214,"Reno, NV",13.72,28,207
+215,"Bowling Green, OH",13.71,28,208
+216,"Normal, IL",13.71,28,209
+217,"Orangeburg, SC",13.66,28,210
+218,"Amherst, MA",13.61,28,211
+219,"Fresno, CA",13.58,28,212
+220,"Macon, GA",13.53,28,213
+221,"Natchitoches, LA",13.52,28,214
+222,"Oxford, MS",13.51,28,215
+223,"New Brunswick, NJ",13.49,28,216
+224,"St. Paul, MN",13.48,28,218
+224,"Edwardsville, IL",13.48,28,217
+226,"Cookeville, TN",13.46,28,219
+227,"Martin, TN",13.45,28,220
+228,"Fort Myers, FL",13.38,28,222
+229,"North Charleston, SC",13.29,28,223
+230,"El Paso, TX",13.21,28,224
+231,"Cambridge, MA",13.09,28,226
+232,"Elon, NC",13.07,28,227
+233,"Evanston, IL",13.06,28,228
+234,"Clinton, SC",13.04,28,229
+235,"Columbia, MO",13.02,28,230
+236,"Flagstaff, AZ",12.92,28,231
+237,"Charleston, IL",12.91,28,232
+238,"Greeley, CO",12.91,28,232
+239,"Las Vegas, NV",12.91,28,234
+240,"Albuquerque, NM",12.87,28,235
+241,"St. George, UT",12.85,28,236
+242,"DeKalb, IL",12.84,28,237
+243,"Logan, UT",12.84,28,238
+244,"Kennesaw, GA",12.8,28,239
+245,"Greenville, NC",12.72,28,240
+246,"Conway, AR",12.68,28,241
+247,"Colorado Springs, CO",12.65,28,242
+248,"Fort Worth, TX",12.57,28,244
+249,"Honolulu, HI",12.55,28,245
+250,"Binghamton, NY",12.53,28,246
+251,"San Luis Obispo, CA",12.46,28,247
+252,"Lincoln, NE",12.45,28,248
+253,"Beaumont, TX",12.41,28,249
+254,"Kansas City, MO",12.34,28,250
+255,"Jonesboro, AR",12.32,28,251
+256,"Hampton, VA",12.29,28,252
+257,"Evansville, IN",12.27,28,253
+258,"Auburn, AL",12.26,28,254
+259,"Montgomery, AL",12.26,28,255
+260,"Pine Bluff, AR",12.19,28,256
+261,"Boca Raton, FL",12.1,28,257
+262,"Wilmington, NC",12.01,28,258
+263,"Malibu, CA",12.01,28,259
+264,"Tampa, FL",11.97,28,260
+265,"Little Rock, AR",11.96,28,261
+266,"Corpus Christi, TX",11.94,28,262
+267,"Grand Forks, ND",11.91,28,263
+268,"Las Cruces, NM",11.78,28,264
+269,"Clarksville, TN",11.67,28,266
+270,"Jersey City, NJ",11.66,28,267
+271,"San Jose, CA",11.66,28,268
+272,"Valparaiso, IN",11.44,28,269
+273,"Lake Charles, LA",11.4,28,271
+274,"Edinburg, TX",11.39,28,272
+275,"Arlington, TX",11.36,28,273
+276,"Johnson City, TN",11.33,28,274
+277,"Hackensack, NJ",11.21,28,276
+278,"Worcester, MA",11.18,28,277
+279,"Fairfax, VA",11.04,28,278
+280,"Moscow, ID",10.95,28,279
+281,"High Point, NC",10.92,28,280
+282,"Athens, GA",10.83,28,281
+283,"Kalamazoo, MI",10.83,28,282
+284,"Stockton, CA",10.31,28,284
+285,"Huntsville, AL",10.01,28,285
+286,"Austin, TX",9.33,28,286
+287,"Commerce, TX",8.98,28,283
+288,"Dover, DE",8.92,28,288
+289,"Wichita, KS",8.88,28,289
+290,"Green Bay, WI",8.78,28,290
+291,"Easton, MA",8.62,28,287
+292,"Berkeley, CA",8.26,28,291
+293,"Pocatello, ID",6.98,28,292
+294,"Daytona Beach, FL",5.56,28,293
+295,"New Britain, CT",4.91,28,294

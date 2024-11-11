@@ -1,0 +1,130 @@
+{
+    "Boston": [
+      {
+        "name": "Fogo de Chão Brazilian Steakhouse",
+        "latitude": 42.3518,
+        "longitude": -71.0636,
+        "address": "200 Dartmouth St, Boston, MA 02116"
+      },
+      {
+        "name": "Legal Sea Foods",
+        "latitude": 42.3488,
+        "longitude": -71.0758,
+        "address": "100 Huntington Ave, Boston, MA 02116"
+      },
+      {
+        "name": "Eataly Boston",
+        "latitude": 42.3487,
+        "longitude": -71.0821,
+        "address": "800 Boylston St, Boston, MA 02199"
+      },
+      {
+        "name": "Saltie Girl",
+        "latitude": 42.3509,
+        "longitude": -71.0754,
+        "address": "279 Dartmouth St, Boston, MA 02116"
+      },
+      {
+        "name": "Atlantic Fish Co.",
+        "latitude": 42.3492,
+        "longitude": -71.0785,
+        "address": "761 Boylston St, Boston, MA 02116"
+      }
+    ],
+    "Dallas": [
+      {
+        "name": "Bullion",
+        "latitude": 32.7778,
+        "longitude": -96.8031,
+        "address": "400 S Record St, Dallas, TX 75202"
+      },
+      {
+        "name": "Y.O. Ranch Steakhouse",
+        "latitude": 32.7803,
+        "longitude": -96.8007,
+        "address": "702 Ross Ave, Dallas, TX 75202"
+      },
+      {
+        "name": "Café Momentum",
+        "latitude": 32.7810,
+        "longitude": -96.7987,
+        "address": "1510 Pacific Ave, Dallas, TX 75201"
+      },
+      {
+        "name": "CBD Provisions",
+        "latitude": 32.7810,
+        "longitude": -96.8005,
+        "address": "1530 Main St, Dallas, TX 75201"
+      },
+      {
+        "name": "Tei-An",
+        "latitude": 32.7876,
+        "longitude": -96.8022,
+        "address": "1722 Routh St, Dallas, TX 75201"
+      }
+    ],
+    "Columbus": [
+      {
+        "name": "North Market",
+        "latitude": 39.9697,
+        "longitude": -83.0026,
+        "address": "59 Spruce St, Columbus, OH 43215"
+      },
+      {
+        "name": "Bareburger",
+        "latitude": 39.9698,
+        "longitude": -83.0047,
+        "address": "463 N High St, Columbus, OH 43215"
+      },
+      {
+        "name": "Martini Modern Italian",
+        "latitude": 39.9693,
+        "longitude": -83.0012,
+        "address": "445 N High St, Columbus, OH 43215"
+      },
+      {
+        "name": "Buca di Beppo Italian Restaurant",
+        "latitude": 39.9697,
+        "longitude": -83.0026,
+        "address": "343 N Front St, Columbus, OH 43215"
+      },
+      {
+        "name": "Rodizio Grill",
+        "latitude": 39.9695,
+        "longitude": -83.0021,
+        "address": "125 W Nationwide Blvd, Columbus, OH 43215"
+      }
+    ],
+    "Tampa": [
+      {
+        "name": "Ulele",
+        "latitude": 27.9595,
+        "longitude": -82.4627,
+        "address": "1810 N Highland Ave, Tampa, FL 33602"
+      },
+      {
+        "name": "Columbia Restaurant",
+        "latitude": 27.9596,
+        "longitude": -82.4335,
+        "address": "2117 E 7th Ave, Tampa, FL 33605"
+      },
+      {
+        "name": "Bern's Steak House",
+        "latitude": 27.9312,
+        "longitude": -82.4825,
+        "address": "1208 S Howard Ave, Tampa, FL 33606"
+      },
+      {
+        "name": "Oxford Exchange",
+        "latitude": 27.9450,
+        "longitude": -82.4632,
+        "address": "420 W Kennedy Blvd, Tampa, FL 33606"
+      },
+      {
+        "name": "Élevage",
+        "latitude": 27.9436,
+        "longitude": -82.4518,
+        "address": "1207 S Howard Ave, Tampa, FL 33606"
+      }
+    ]
+  }

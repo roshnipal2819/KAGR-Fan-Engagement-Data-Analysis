@@ -1,0 +1,61 @@
+﻿Rank,Large_City,Large_State,Score_Large_City,Midsize_City,Midsize_State,Score_Midsize_City,Small_City,Small_State,Score_Small_City
+1,Los Angeles, CA,62.63,Salt Lake City, UT,46.13,Storrs, CT,31.17
+2,Boston, MA,57.22,Durham, NC,30.37,Lawrence, KS,28.32
+3,San Francisco, CA,48.03,Ann Arbor, MI,21.53,East Lansing, MI,27.66
+4,Miami, FL,45.27,Norman, OK,20.1,Chapel Hill, NC,25.39
+5,Philadelphia, PA,43.87,Syracuse, NY,19.48,Loretto, PA,24.09
+6,Washington, DC,42.28,Providence, RI,18.73,Lewiston, NY,23.28
+7,Milwaukee, WI,40.95,Dayton, OH,18.44,Fayette, MS,23.07
+8,New York, NY,40.89,Waco, TX,18.07,College Park, MD,22.69
+9,San Antonio, TX,40.16,Toledo, OH,17.98,Kingston, RI,22.52
+10,Atlanta, GA,39.33,South Bend, IN,17.83,Charlottesville, VA,22.29
+11,Chicago, IL,39.1,Eugene, OR,17.49,Hamilton, NY,22.22
+12,Cleveland, OH,37.75,Provo, UT,17.43,Fayetteville, AR,22.15
+13,New Orleans, LA,37.72,Norfolk, VA,17.36,Morgantown, WV,22.05
+14,Dallas, TX,37.06,Akron, OH,17.26,Grambling, LA,21.96
+15,Portland, OR,36.6,Lafayette, LA,16.94,West Point, NY,21.92
+16,Denver, CO,36.15,Baton Rouge, LA,16.61,West Lafayette, IN,21.31
+17,Orlando, FL,35.78,Tallahassee, FL,16.26,Bloomington, IN,21.14
+18,Memphis, TN,35.65,New Haven, CT,16.22,Murray, KY,20.88
+19,Oklahoma City, OK,35.5,Boise, ID,16.17,Itta Bena, MS,20.43
+20,Sacramento, CA,34.69,Knoxville, TN,16.13,Iowa City, IA,20.13
+21,Detroit, MI,34.62,Mobile, AL,15.86,Clemson, SC,20.11
+22,Houston, TX,34.19,Tuscaloosa, AL,15.86,Buies Creek, NC,19.76
+23,Charlotte, NC,33.36,College Station, TX,15.85,Princeton, NJ,19.75
+24,Minneapolis, MN,33.27,Spokane, WA,15.71,Stillwater, OK,19.52
+25,Phoenix, AZ,32.37,Charleston, SC,15.68,Athens, OH,19.46
+26,Indianapolis, IN,31.3,Columbia, SC,15.58,Emmitsburg, MD,19.44
+27,Lexington, KY,26.67,Boulder, CO,15.58,Morehead, KY,19.4
+28,Cincinnati, OH,19.55,St. Louis, MO,15.5,Starkville, MS,19.23
+29,Nashville, TN,19.36,Denton, TX,15.44,Jacksonville, AL,19.01
+30,Louisville, KY,18.96,Des Moines, IA,15.42,Princess Anne, MD,18.97
+31,Tulsa, OK,18.76,Birmingham, AL,15.36,Boiling Springs, NC,18.86
+32,Baltimore, MD,18.52,Greensboro, NC,15.31,Troy, AL,18.69
+33,San Diego, CA,17.11,Lowell, MA,15.25,Kent, OH,18.46
+34,Omaha, NE,16.94,Tempe, AZ,15.11,Olean, NY,18.15
+35,Long Beach, CA,16.66,Fullerton, CA,15,Farmville, VA,17.95
+36,Pittsburgh, PA,16.41,Fort Collins, CO,14.94,Nacogdoches, TX,17.89
+37,Seattle, WA,16.36,Abilene, TX,14.94,Carbondale, IL,17.8
+38,Raleigh, NC,15.62,Fargo, ND,14.88,Highland Heights, KY,17.73
+39,Columbus, OH,15.5,Peoria, IL,14.86,Spartanburg, SC,17.61
+40,Riverside, CA,15.16,Fort Wayne, IN,14.78,Pullman, WA,17.47
+41,Jacksonville, FL,15.02,Springfield, MO,14.77,Prairie View, TX,17.41
+42,Irvine, CA,14.87,Buffalo, NY,14.65,Cullowhee, NC,17.41
+43,Tucson, AZ,14.66,Richmond, VA,14.64,Annapolis, MD,17.31
+44,Bakersfield, CA,14.45,Santa Clara, CA,14.62,Ames, IA,17.13
+45,Newark, NJ,13.95,Jackson, MS,14.54,Ithaca, NY,17.08
+46,Fresno, CA,13.58,Chattanooga, TN,14.37,Cheney, WA,16.85
+47,St. Paul, MN,13.48,Gainesville, FL,14.35,Ruston, LA,16.83
+48,El Paso, TX,13.21,Madison, WI,14.28,Huntsville, TX,16.72
+49,Las Vegas, NV,12.91,Lubbock, TX,14.03,Lynchburg, VA,16.65
+50,Albuquerque, NM,12.87,Winston-Salem, NC,13.89,Stanford, CA,16.61
+51,Colorado Springs, CO,12.65,Murfreesboro, TN,13.88,Bowling Green, KY,16.57
+52,Fort Worth, TX,12.57,Reno, NV,13.72,New Rochelle, NY,16.49
+53,Honolulu, HI,12.55,Macon, GA,13.53,Burlington, VT,16.45
+54,Kansas City, MO,12.34,North Charleston, SC,13.29,Brookings, SD,16.42
+55,Tampa, FL,11.97,Cambridge, MA,13.09,Thibodaux, LA,16.38
+56,Corpus Christi, TX,11.94,Columbia, MO,13.02,Richmond, KY,16.35
+57,San Jose, CA,11.66,Greeley, CO,12.91,Davidson, NC,16.34
+58,Arlington, TX,11.36,Lincoln, NE,12.45,Champaign, IL,16.32
+59,Stockton, CA,10.31,Beaumont, TX,12.41,Rock Hill, SC,16.27
+60,Austin, TX,9.33,Hampton, VA,12.29,Ogden, UT,

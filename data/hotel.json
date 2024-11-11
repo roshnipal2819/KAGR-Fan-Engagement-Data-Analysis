@@ -1,0 +1,130 @@
+{
+    "Boston": [
+      {
+        "name": "Courtyard by Marriott Boston Downtown",
+        "latitude": 42.3518,
+        "longitude": -71.0624,
+        "address": "275 Tremont St, Boston, MA 02116"
+      },
+      {
+        "name": "The Godfrey Hotel Boston",
+        "latitude": 42.3545,
+        "longitude": -71.0612,
+        "address": "505 Washington St, Boston, MA 02111"
+      },
+      {
+        "name": "Hyatt Regency Boston",
+        "latitude": 42.3523,
+        "longitude": -71.0602,
+        "address": "1 Avenue de Lafayette, Boston, MA 02111"
+      },
+      {
+        "name": "Boston Park Plaza",
+        "latitude": 42.3514,
+        "longitude": -71.0712,
+        "address": "50 Park Plaza, Boston, MA 02116"
+      },
+      {
+        "name": "Revere Hotel Boston Common",
+        "latitude": 42.3510,
+        "longitude": -71.0665,
+        "address": "200 Stuart St, Boston, MA 02116"
+      }
+    ],
+    "Dallas": [
+      {
+        "name": "Omni Dallas Hotel",
+        "latitude": 32.7791,
+        "longitude": -96.8031,
+        "address": "555 S Lamar St, Dallas, TX 75202"
+      },
+      {
+        "name": "Hyatt Regency Dallas",
+        "latitude": 32.7752,
+        "longitude": -96.8081,
+        "address": "300 Reunion Blvd E, Dallas, TX 75207"
+      },
+      {
+        "name": "Sheraton Dallas Hotel",
+        "latitude": 32.7828,
+        "longitude": -96.7972,
+        "address": "400 N Olive St, Dallas, TX 75201"
+      },
+      {
+        "name": "The Joule",
+        "latitude": 32.7810,
+        "longitude": -96.8005,
+        "address": "1530 Main St, Dallas, TX 75201"
+      },
+      {
+        "name": "Hilton Anatole",
+        "latitude": 32.8099,
+        "longitude": -96.8266,
+        "address": "2201 N Stemmons Fwy, Dallas, TX 75207"
+      }
+    ],
+    "Columbus": [
+      {
+        "name": "Hilton Columbus Downtown",
+        "latitude": 39.9697,
+        "longitude": -83.0026,
+        "address": "401 N High St, Columbus, OH 43215"
+      },
+      {
+        "name": "Hyatt Regency Columbus",
+        "latitude": 39.9631,
+        "longitude": -83.0008,
+        "address": "350 N High St, Columbus, OH 43215"
+      },
+      {
+        "name": "The Westin Great Southern Columbus",
+        "latitude": 39.9573,
+        "longitude": -82.9977,
+        "address": "310 S High St, Columbus, OH 43215"
+      },
+      {
+        "name": "Renaissance Columbus Downtown Hotel",
+        "latitude": 39.9622,
+        "longitude": -83.0009,
+        "address": "50 N 3rd St, Columbus, OH 43215"
+      },
+      {
+        "name": "Hotel LeVeque, Autograph Collection",
+        "latitude": 39.9611,
+        "longitude": -83.0017,
+        "address": "50 W Broad St, Columbus, OH 43215"
+      }
+    ],
+    "Tampa": [
+      {
+        "name": "Tampa Marriott Water Street",
+        "latitude": 27.9426,
+        "longitude": -82.4573,
+        "address": "505 Water St, Tampa, FL 33602"
+      },
+      {
+        "name": "Hilton Tampa Downtown",
+        "latitude": 27.9480,
+        "longitude": -82.4591,
+        "address": "211 N Tampa St, Tampa, FL 33602"
+      },
+      {
+        "name": "Le Méridien Tampa",
+        "latitude": 27.9477,
+        "longitude": -82.4592,
+        "address": "601 N Florida Ave, Tampa, FL 33602"
+      },
+      {
+        "name": "Sheraton Tampa Riverwalk Hotel",
+        "latitude": 27.9465,
+        "longitude": -82.4603,
+        "address": "200 N Ashley Dr, Tampa, FL 33602"
+      },
+      {
+        "name": "Aloft Tampa Downtown",
+        "latitude": 27.9447,
+        "longitude": -82.4613,
+        "address": "100 W Kennedy Blvd, Tampa, FL 33602"
+      }
+    ]
+  }
