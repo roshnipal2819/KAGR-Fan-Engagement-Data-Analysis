@@ -178,10 +178,9 @@ Key observations:
 """)
 
     # 7. Distance to Arena vs. Engagement Score
-    st.markdown("### How Does Distance Affect Fan Engagement?")
+    st.markdown("### Fan Engagement Score by Distance to Arena")
     data['Distance_Category'] = pd.cut(data['Distance_to_Arena_Miles'], bins=[0, 5, 10, 20, 50, 100, float('inf')],labels=['0-5', '6-10', '11-20', '21-50', '51-100', '100+'])
-    fig7 = px.box(data, x='Distance_Category', y='Total_Engagement_Score', 
-              title="Fan Engagement Score by Distance to Arena",
+    fig7 = px.box(data, x='Distance_Category', y='Total_Engagement_Score',
               labels={'Distance_Category': 'Distance to Arena (miles)', 
                       'Total_Engagement_Score': 'Engagement Score'},
               color='Distance_Category',
@@ -208,24 +207,6 @@ Key observations:
     fig8 = px.scatter(data, x='Age', y='Total_Engagement_Score')
     st.plotly_chart(fig8, use_container_width=True)
 
-    # 9. Distance to Arena vs. Lifetime Ticket Spend
-    st.markdown("### Average Lifetime Ticket Spend by Distance to Arena")
-    distance_bins = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    distance_labels = ['0-10', '11-20', '21-30', '31-40', '41-50', '51-60', '61-70', '71-80', '81-90', '91-100']
-    distance_filtered_data['Distance_Category'] = pd.cut(distance_filtered_data['Distance_to_Arena_Miles'], bins=distance_bins, labels=distance_labels, include_lowest=True)    
-    avg_spend_by_distance = distance_filtered_data.groupby('Distance_Category')['Lifetime_Ticket_Spend'].mean().reset_index()
-    fig_line = px.line(
-    avg_spend_by_distance,
-    x='Distance_Category',
-    y='Lifetime_Ticket_Spend',
-    markers=True,
-    labels={
-        "Distance_Category": "Distance to Arena (miles)",
-        "Lifetime_Ticket_Spend": "Average Lifetime Ticket Spend ($)"
-    },
-    title=f"Average Lifetime Ticket Spend by Distance to Arena (Up to {distance_filter} miles)")
-    st.plotly_chart(fig_line, use_container_width=True)
-
     # Chart 1: Impact of Ticket Discount on Attendance by Fan Type
     st.markdown("### Impact of Ticket Discount on Attendance by Fan Type")
     fig_discount = go.Figure()
@@ -251,12 +232,11 @@ Key observations:
     st.plotly_chart(fig_discount, use_container_width=True)
 
     #6. Season Ticket Member (STM) Impact
-    st.markdown("### Season Ticket Member (STM) Impact")
+    st.markdown("### STM Holder Impact on Spend and Engagement")
     filtered_data_stm = filtered_data[filtered_data['Fan_Type'].isin(fan_type_filter)]
     stm_impact = filtered_data_stm.groupby('STM_Holder')[['Lifetime_Ticket_Spend', 'Lifetime_Concessions_Spend', 'Total_Engagement_Score']].mean().reset_index()
     stm_impact_melted = pd.melt(stm_impact, id_vars=['STM_Holder'], value_vars=['Lifetime_Ticket_Spend', 'Lifetime_Concessions_Spend', 'Total_Engagement_Score'],var_name='Metric', value_name='Value')
     fig6 = px.bar(stm_impact_melted, x='STM_Holder', y='Value', color='Metric', barmode='group',
-              title="STM Holder Impact on Spend and Engagement",
               labels={'STM_Holder': 'Season Ticket Member', 'Value': 'Average Value'},
               color_discrete_map={'Lifetime_Ticket_Spend': '#1f77b4', 
                                   'Lifetime_Concessions_Spend': '#ff7f0e',
@@ -289,7 +269,7 @@ Key observations:
     st.markdown("### Correlation Matrix")
     corr_cols = ['Age', 'Distance_to_Arena_Miles', 'Lifetime_Ticket_Spend', 'Lifetime_Concessions_Spend', 'Total_Engagement_Score']
     corr_matrix = data[corr_cols].corr()
-    fig4 = px.imshow(corr_matrix, text_auto=True, aspect="auto", title="Correlation Matrix")
+    fig4 = px.imshow(corr_matrix, text_auto=True, aspect="auto")
     st.plotly_chart(fig4, use_container_width=True)
 
     # 12. Engagement Score by Demographics
@@ -338,9 +318,9 @@ Key observations:
 - The trend line shows the overall relationship between distance and spending.""")
 
     # 8. Spend Analysis
-    st.markdown("### Spend Analysis by Fan Type")
+    st.markdown("### Average Lifetime Spend by Fan Type")
     spend_analysis = data.groupby('Fan_Type')[['Lifetime_Concessions_Spend', 'Lifetime_Retail_Spend']].mean().reset_index()
-    fig8 = px.bar(spend_analysis, x='Fan_Type', y=['Lifetime_Concessions_Spend', 'Lifetime_Retail_Spend'],title="Average Lifetime Spend by Fan Type")
+    fig8 = px.bar(spend_analysis, x='Fan_Type', y=['Lifetime_Concessions_Spend', 'Lifetime_Retail_Spend'])
     st.plotly_chart(fig8, use_container_width=True)
     
     # 5. Lifetime Value Analysis
@@ -387,7 +367,7 @@ elif page_selection == "Market Analysis":
     # Top 5 Large Cities
     st.markdown("### Top 5 Large Cities by Score")
     top_5_large = rank_data.nlargest(5, 'Score_Large_City')
-    fig15 = px.bar(top_5_large, x='Large_City', y='Score_Large_City', color='Score_Large_City', title="Top 5 Large Cities by Score")
+    fig15 = px.bar(top_5_large, x='Large_City', y='Score_Large_City', color='Score_Large_City')
     st.plotly_chart(fig15, use_container_width=True)
 
     # Top 5 States by Large City Score
@@ -399,13 +379,13 @@ elif page_selection == "Market Analysis":
     st.plotly_chart(fig21, use_container_width=True)
 
     # # 4. City Size Comparison
-    st.subheader("City Size Comparison")
+    st.subheader("Score Distribution by City Size")
     city_size_data = pd.melt(rank_data, 
                              value_vars=['Score_Large_City', 'Score_Midsize_City', 'Score_Small_City'],
                              var_name='City_Size', value_name='Score')
     city_size_data['City_Size'] = city_size_data['City_Size'].map({
         'Score_Large_City': 'Large', 'Score_Midsize_City': 'Midsize', 'Score_Small_City': 'Small' })
-    fig4 = px.box(city_size_data, x='City_Size', y='Score', title="Score Distribution by City Size")
+    fig4 = px.box(city_size_data, x='City_Size', y='Score')
     st.plotly_chart(fig4, use_container_width=True)
 
     # 6. State-Level Analysis
@@ -424,7 +404,7 @@ elif page_selection == "Market Analysis":
         (rank_data['Score_Large_City'] > rank_data['Score_Large_City'].mean()) |
         (rank_data['Score_Midsize_City'] > rank_data['Score_Midsize_City'].mean()) |
         (rank_data['Score_Small_City'] > rank_data['Score_Small_City'].mean())]
-    st.write("Cities with above-average scores (potential growth markets):")
+    st.write("Cities with above-average scores:")
     st.dataframe(potential_markets)
 
     # Additional summary
@@ -476,11 +456,11 @@ elif page_selection == "Logistical Considerations":
     st.plotly_chart(fig_airport)
 
     # Public Transit Rating
-    st.subheader("Public Transit Rating")
+    st.subheader("Public Transit Rating by City")
     transit_order = ["Excellent", "Good", "Moderate"]
     df['Transit Rating'] = df['Public Transit'].apply(lambda x: x.split()[0])
     df['Transit Score'] = df['Transit Rating'].map(dict(zip(transit_order, range(len(transit_order), 0, -1))))
-    fig_transit = px.bar(df, x='City', y='Transit Score', color='Transit Rating',title="Public Transit Rating by City",
+    fig_transit = px.bar(df, x='City', y='Transit Score', color='Transit Rating',
                      labels={'Transit Score': 'Transit Quality', 'City': 'City'},category_orders={"Transit Rating": transit_order})
     st.plotly_chart(fig_transit)
 
