@@ -1,7 +1,7 @@
 # Overview
 This project analyzes fan engagement, demographics, and spending patterns to determine the optimal venue for a collegiate women’s basketball tournament. Using machine learning models and interactive visualizations, the project provides insights into fan engagement trends and venue logistics, with a chatbot feature to make data exploration accessible and user-friendly.
 
-**Application**: [Fan Engagement Data Analysis App]([https://kagr-fan-engagement-data-analysis-tv8a3aqztwsfjntmasqw34.streamlit.app](https://kagr-fan-engagement-data-analysis-tv8a3aqztwsfjntmasqw34.streamlit.app/)/)
+**Application**: [Fan Engagement Data Analysis App](https://kagr-fan-engagement-data-analysis-tv8a3aqztwsfjntmasqw34.streamlit.app/)
 
 ## Features
 - **Data Collection & Cleaning**: Processes raw data to ensure consistency and accuracy.
