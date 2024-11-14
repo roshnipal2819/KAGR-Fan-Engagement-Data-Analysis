@@ -11,9 +11,7 @@ st.set_page_config(page_title="Fan Engagement Analysis", layout="wide")
 
 # Set up OpenAI API key (Make sure to set your API key in your environment)
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-if not OPENAI_API_KEY:
-    st.error("OpenAI API key not found. Please set OPENAI_API_KEY in your environment.")
-else:
+if OPENAI_API_KEY:
     openai.api_key = OPENAI_API_KEY
 
 # Load the processed data for visualization
@@ -449,6 +447,7 @@ elif page_selection == "Logistical Considerations":
     "Number of Daily Flights": [350, 700, 100, 200, 100],
     "Public Transit": ["Excellent (subway)", "Good (DART)", "Good (COTA)", "Moderate (HART)", "Good (VIA)"]}
     df = pd.DataFrame(data)
+    
     st.subheader("Airport Accessibility")
     fig_airport = px.scatter(df, x='Distance from Airport (miles)', y='Number of Daily Flights',
                          size='Capacity', color='City', hover_name='Arena',
